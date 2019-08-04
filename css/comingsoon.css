@@ -1,0 +1,17 @@
+main,html,body {
+	height: 100%;
+}
+body{
+	cursor: url("../assets/harrypotter.png"),url("../assets/harrypotter.cur"),default;
+	background-color: black;
+	overflow: hidden;
+}
+#cz_logo{
+	width: 400px;
+}
+#logo{
+	position: absolute;
+}
+canvas {
+  background: #000;
+}
