@@ -14,7 +14,7 @@
 	<canvas id = "canvas" style="z-index: -100"></canvas>
 	<div class="container-fluid">
 		<div class="row">
-			<div id="logo" class="text-center col-lg-4 col-md-4 col-sm-12 col-xs-12">
+			<div id="logo" class="text-center col-lg-4 col-md-6 col-sm-8 col-10">
 				<img id="cz_logo" src="assets/cz_logo.png" class="img-fluid" draggable="false">
 				<!-- <br><button id="contact" class="btn btn-info" onclick="window.location.href='#contactus';">Contact Us!!</button> -->
 				<p id="timer"></p>

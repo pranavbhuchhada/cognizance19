@@ -68,3 +68,9 @@ canvas {
 	opacity: 1;
 	border:solid #33cc66 2px;
 }
+
+@media(max-width: 450px) {
+	html {
+		font-size: 14px;
+	}
+}
