@@ -1,3 +1,7 @@
+* {
+	margin: 0;
+	padding: 0;
+}
 html,body {
 	min-height: 100%;
 }
@@ -14,14 +18,22 @@ body{
   font-family: ColledgeJackpot;
   src: url(../assets/JACKPORT_COLLEGE_NCV.ttf);
 }
+canvas {
+	background: #000;
+}
 #cz_logo{
 	width: 400px;
 }
 #logo{
 	position: absolute;
 }
-canvas {
-  background: #000;
+#timer {
+	font-family: 'Teko', sans-serif;
+	font-style: italic;
+	margin-top: 10%;
+	font-size: 2.5rem;
+	font-weight: 800;
+	color: white;
 }
 #contact{
 	border-radius: 0px !important;
