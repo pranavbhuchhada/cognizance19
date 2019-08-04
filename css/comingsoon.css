@@ -12,7 +12,11 @@ body{
 }
 @font-face {
   font-family: MontserratLightItalic;
-  src: url(assets/Montserrat-ExtraLightItalic.otf);
+  src: url(../assets/Montserrat-ExtraLightItalic.otf);
+}
+@font-face {
+  font-family: ColledgeJackpot;
+  src: url(../assets/JACKPORT_COLLEGE_NCV.ttf);
 }
 canvas {
 	background: #000;
