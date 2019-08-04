@@ -11,8 +11,8 @@ body{
 	overflow-x: hidden;
 }
 @font-face {
-  font-family: MontserratLightItalic;
-  src: url(../assets/Montserrat-ExtraLightItalic.otf);
+  font-family: MontserratBold;
+  src: url(../assets/Montserrat-Bold.otf);
 }
 @font-face {
   font-family: ColledgeJackpot;
@@ -24,16 +24,12 @@ canvas {
 #cz_logo{
 	width: 400px;
 }
-#logo{
-	position: absolute;
-}
 #timer {
-	font-family: 'Teko', sans-serif;
-	font-style: italic;
-	margin-top: 10%;
+	font-family: MontserratBold;
 	font-size: 2.5rem;
-	font-weight: 800;
-	color: white;
+	font-weight: 600;
+	color: #ff9615;
+	stroke: #33cc66;
 }
 #contact{
 	border-radius: 0px !important;
@@ -71,4 +67,11 @@ canvas {
 	text-decoration: none;
 	opacity: 1;
 	border:solid #33cc66 2px;
+}
+#main{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 100%;
 }

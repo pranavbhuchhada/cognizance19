@@ -3,12 +3,6 @@ var canvas = document.getElementById("canvas"),
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
-$(window).resize(function(){
-    $("#logo").css({"top":((window.innerHeight/2) - $("#logo").height()/2)+"px"});
-    $("#logo").css({"left":((window.innerWidth/2) - $("#logo").width()/2)+"px"});
-});
-$("#logo").css({"top":((canvas.height/2) - $("#logo").height()/2)+"px"});
-$("#logo").css({"left":((canvas.width/2) - $("#logo").width()/2)+"px"});
 var stars = [], // Array that contains the stars
     FPS = 60, // Frames per second
     x = 100, // Number of stars

@@ -12,23 +12,30 @@
 </head>
 <body>
 	<canvas id = "canvas" style="z-index: -100"></canvas>
-	<div class="container-fluid">
-		<div class="row">
-			<div id="logo" class="text-center col-lg-4 col-md-4 col-sm-12 col-xs-12">
-				<img id="cz_logo" src="assets/cz_logo.png" class="img-fluid" draggable="false">
-				<br><button id="contact" class="btn btn-info" onclick="window.location.href='#contactus';">Contact Us!!</button>
-				<br><br>
-				<h1 style="font-family: ColledgeJackpot;color: #ff9615">COMING SOON!!</h1>
-				<h4 style="font-family: ColledgeJackpot;color: #33cc66;">WORKING ON AWESOME WEBSITE!!</h4>
-				<!-- <br><button id="contact" class="btn btn-info" onclick="window.location.href='#contactus';">Contact Us!!</button> -->
-				<p id="timer"></p>
+	<div class="container-fluid" style="height: 100%">
+		<div id="main" class="d-flex flex-wrap align-content-center justify-content-center" style="margin-bottom: 100px;">
+		<div class="row d-flex d-flex" style="height: 100%;">
+			<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 align-self-center text-center">
+				<h1 style="font-family: MontserratBold;color: #ff9615">MARK THE DTAES</h1>
+				<h1 style="font-family: MontserratBold;color: #33cc66;">12-13 SEPTEMBER</h1>
 			</div>
+			<div id="logo" class="text-center col-lg-4 col-md-4 col-sm-12 col-xs-12 align-self-center d-flex flex-wrap align-content-center justify-content-center">
+				<img id="cz_logo" src="assets/cz_logo.png" class="img-fluid" draggable="false">
+				<br>
+				<button id="contact" class="btn btn-info" onclick="window.location.href='#contactus';">Contact Us!!</button><br>
+				<h1 style="font-family: MontserratBold;color: #33cc66;padding-top: 20px;">Countdown Started!!</h1>
+				<p id="timer"></p>	
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 align-self-center text-center">
+				<h1 style="font-family: MontserratBold;color: #ff9615">COMING SOON!!</h1>
+				<h4 style="font-family: MontserratBold;color: #33cc66;">WORKING ON AWESOME WEBSITE!!</h4>
+			</div>	
+		</div>
 		</div>
 	</div>
 	
 	<footer id="contactus">
-	<div class="container">
-		<div></div>
+	<div class="container-fluid" >
 		<div class="row justify-content-center">
 			<div class="col-12 text-center pt-5">
 				<a href="mailto:charusat.cognizance19@gmail.com?Subject=Inquery%20CZ'19" class="fa fa-envelope-o" title="charusat.cognizance19@gmail.com"></a>
@@ -39,9 +46,9 @@
 		</div>
 	</div>
 	</footer>
-	<script type="text/javascript" src="js/timer.js"></script>
 	<script type="text/javascript" src="plugins/jQuery/jquery.min.js"></script>
 	<script type="text/javascript" src="plugins/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/comingsoon.js"></script>
+	<script type="text/javascript" src="js/timer.js"></script>
 </body>
 </html>
