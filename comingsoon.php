@@ -17,8 +17,8 @@
 				<img id="cz_logo" src="assets/cz_logo.png" class="img-fluid" draggable="false">
 				<br><button id="contact" class="btn btn-info" onclick="window.location.href='#contactus';">Contact Us!!</button>
 				<br><br>
-				<h1 style="font-family: MontserratLightItalic;color: #ff9615">COMING SOON!!</h1>
-				<h4 style="font-family: MontserratLightItalic;color: #33cc66;">WORKING ON AWESOME WEBSITE!!</h4>
+				<h1 style="font-family: ColledgeJackpot;color: #ff9615">COMING SOON!!</h1>
+				<h4 style="font-family: ColledgeJackpot;color: #33cc66;">WORKING ON AWESOME WEBSITE!!</h4>
 			</div>
 		</div>
 	</div>
@@ -28,7 +28,7 @@
 		<div></div>
 		<div class="row justify-content-center">
 			<div class="col-12 text-center pt-5">
-				<a href="mailto:charusat.cognizance19@gamil.com?Subject=Cognizance%2019" class="fa fa-envelope-o" title="charusat.cognizance19@gamil.com"></a>
+				<a href="mailto:charusat.cognizance19@gmail.com?Subject=Inquery%20CZ'19" class="fa fa-envelope-o" title="charusat.cognizance19@gmail.com"></a>
 				<a href="https://www.facebook.com/czCHARUSAT/" target="_blank" class="fa fa-facebook"></a>
 				<a href="https://www.instagram.com/cognizance_charusat/" target="_blank" class="fa fa-instagram"></a>
 				<p style="color: white;" class="m-3">Copyright © <?php echo date("Y"); ?>. All rights reserved</p>
