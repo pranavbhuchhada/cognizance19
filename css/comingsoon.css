@@ -26,7 +26,6 @@ canvas {
 }
 #timer {
 	font-family: MontserratBold;
-	font-size: 2.5rem;
 	font-weight: 600;
 	color: #ff9615;
 	stroke: #33cc66;
@@ -75,8 +74,8 @@ canvas {
 	width: 100%;
 	min-height: 100%;
 }
-/*@media (max-width: 450px) {
-	html {
-		font-size: 14px;
+@media (max-width: 600px) {
+	h1,p {
+		font-size: 5vw;
+	}
 }
-}*/
