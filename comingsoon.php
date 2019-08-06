@@ -4,6 +4,9 @@
 	<title>Cognizance 2019</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Cognizance 2019">
+	<meta name="keywords" content="cognizance 2019, Cognizance, 2019, cz2019, cz19, cz, 19, Charusat, charotar, university, techfest, technical, fest, changa, cspit, depstar, events, event, non-tech">
+	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja, akash patel">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/comingsoon.css?v=1">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -13,7 +16,7 @@
 	<div class="container-fluid" style="height: 100%">
 		<div id="main" style="margin-bottom: 100px;">
 			<div class="row  justify-content-center mt-5" style="height: 100%;">
-				<div id="logo" class="text-center col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div id="logo" class="text-center col-lg-12 col-md-12 col-sm-12 col-xs-12 p-3">
 					<img id="cz_logo" src="assets/cz_logo.png" class="img-fluid" draggable="false">
 					<h1 style="font-family: MontserratBold;color: #ff9615;margin-top: 30px;">13-14 SEPTEMBER 2019</h1>
 					<h1 style="font-family: MontserratBold;color: #33cc66;padding-top: 20px;">Stay Tuned !!</h1>
