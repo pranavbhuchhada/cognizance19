@@ -1,0 +1,77 @@
+@font-face {
+  font-family: TransformersFont;
+  src: url(../assets/fonts/TransformersFont.ttf);
+}
+html{
+	min-height: 100%;
+}
+body{
+	overflow: hidden;
+	cursor: url("../assets/harrypotter.png"),url("../assets/harrypotter.cur"),default;
+	height: 100%;
+}
+main{
+	position: absolute;
+	top: 157px;
+}
+#div-heading{
+	margin-top: 12%;
+}
+#heading{
+	font-family: TransformersFont;
+	font-size: 10vw;
+}
+#sub-heading{
+	font-family: TransformersFont;
+	font-size: 2vw;
+}
+#bumbulbee{
+	position: absolute;
+	top: 80%;
+	height: 400px;
+	left: -20%;
+	z-index: -1;
+}
+#starwars1{
+	position: absolute;
+	top: 50%;
+	height: 400px;
+	left: 30%;
+	z-index: 10;
+	display: none;
+}
+#darthvader{
+	position: absolute;
+	top: 80%;
+	height: 400px;
+	right: -20%;
+	z-index: -1;
+}
+@media screen and (max-width: 768px) {	
+	main{
+		top: 0px;
+		left: 4%;
+		position: absolute;
+		height: 100%;
+		z-index: -111;
+	}
+	#div-heading{
+		position: absolute;
+		top: 30%;
+	}
+	#heading{
+		font-family: TransformersFont;
+		font-size: 15vw;
+	}
+	#sub-heading{
+		font-family: TransformersFont;
+		font-size: 4vw;
+	}
+	#darthvader{
+		display: none;
+	}
+	#bumbulbee{
+		display: none;
+	}
+	#starwars1{display: block;}
+}

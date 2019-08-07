@@ -1,0 +1,117 @@
+@font-face {
+  font-family: MontserratMedium;
+  src: url(../assets/fonts/Montserrat-Medium.otf);
+}
+body{
+  color: white;
+}
+.cznav {
+  padding-top: 10px;
+  overflow: hidden;
+  font-family: MontserratMedium;
+}
+#hamburger{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color: white;
+  height: 60px;
+  width: 70px;
+}
+#othernav{
+  padding-top: 20px;
+  height: 90px;
+  width: 80%;
+  background-color: #121212;
+  transition: top 0.3s;
+  top: -120px;
+  position: fixed;
+}
+.dropdown{
+  height: 100%;
+}
+#othernav .dropdown-content{
+  position: absolute;
+  top: 69px;
+  padding-left: 20px;
+  background-color: #22252A;
+  min-width: 200px;  
+  display: none;
+}
+#othernav .dropdown-content p{
+  border:2px solid white;
+  color: white;
+}
+#othernav .dropdown-content a:hover{
+  text-decoration: none;
+  color: #FF4E00;
+}
+#othernav .dropdown:hover .dropdown-content{
+  display: block;
+}
+
+/* Style the links inside the navigation bar */
+.cznav a {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+/* Change the color of links on hover */
+.cznav a:hover {
+  color: #FF4E00;
+}
+
+/* Add an active class to highlight the current page */
+.cznav a.active {
+  color: white;
+}
+
+/* Hide the link that should open and close the cznav on small screens */
+.cznav .icon {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .cznav a:not([class="icon"]) {
+    display: none;
+  }
+  .cznav h4{
+    display: none;
+  }
+  .cznav a.icon {
+    float: right;
+    display: block;
+  }
+  html,body,header{
+    padding: 0px;
+    height: 100%;
+  }
+}
+
+/* The "responsive" class is added to the cznav with JavaScript when the user clicks on the icon. This class makes the cznav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 768px) {
+  .cznav.responsive {
+    position: relative;
+    min-height: 100%;
+  }
+  .cznav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .cznav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+    padding-left: 10px;
+  }
+  .cznav.responsive h4 {
+    float: none;
+    display: block;
+    text-align: left;
+    padding-left: 5px;
+  }
+  #othernav{
+    display: none;
+  }
+}

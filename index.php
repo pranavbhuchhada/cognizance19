@@ -10,7 +10,7 @@
 </head>
 <body>
 	<?php 
-		header("Location: comingsoon.php");
+		header("Location: dashboard.php");
 	 ?>
 </body>
 </html>

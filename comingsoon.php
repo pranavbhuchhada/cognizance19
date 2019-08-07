@@ -8,7 +8,7 @@
 	<meta name="keywords" content="cognizance 2019, Cognizance, 2019, cz2019, cz19, cz, 19, Charusat, charotar, university, techfest, technical, fest, changa, cspit, depstar, events, event, non-tech">
 	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja, akash patel">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/comingsoon.css?v=1">
+	<link rel="stylesheet" type="text/css" href="css/comingsoon.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="shortcut icon" type="image/x-icon" href="assets/cz_logo.ico" />
 </head>
@@ -30,7 +30,7 @@
 	<footer id="contactus">
 	<div class="container-fluid" >
 		<div class="row justify-content-center">
-			<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 text-center pt-5">
+			<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 text-center">
 				<a href="http://charusat.edu.in/" target="_blank">
 					<img class="img-fluid" src="assets/charusat_logo.jfif">
 				</a>
