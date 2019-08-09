@@ -19,7 +19,7 @@
 	<div class="row" id="div-heading">
 		<div class="col-lg-12 text-center" >
 			<h1 id="heading">COGNIZANCE</h1>
-			<h2 id="sub-heading">D R E A M . E X P L O R E . I N N O V A T E</h2>
+			<h2 id="sub-heading" style="letter-spacing: 15px">DREAM.EXPLORE.INNOVATE</h2>
 		</div>
 	</div>
 	<img id="bumbulbee" src="assets/bumbulbee.png" class="img-fluid" />
