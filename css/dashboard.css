@@ -2,24 +2,56 @@
   font-family: TransformersFont;
   src: url(../assets/fonts/TransformersFont.ttf);
 }
-html{
-	min-height: 100%;
+@font-face {
+  font-family: harrypotterfont;
+  src: url(../assets/fonts/harrypotterfont.TTF);
+}
+@font-face {
+  font-family: fastandfuriousfont;
+  src: url(../assets/fonts/fastandfuriousfont.TTF);
+}
+@font-face {
+  font-family: phorssa;
+  src: url(../assets/fonts/phorssa.TTF);
 }
 body{
-	overflow: hidden;
 	cursor: url("../assets/harrypotter.png"),url("../assets/harrypotter.cur"),default;
-	height: 100%;
+	color: white !important;
+	/*overflow: hidden;*/
 }
-main{
-	position: absolute;
-	top: 157px;
-}
+*::-webkit-scrollbar { width: 0 !important }
 #div-heading{
-	margin-top: 12%;
+	margin: auto;
+	width: 60%;
+	text-align: center;
+}
+.particles-js-canvas-el{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+#dashboard{
+	/*position: absolute;*/
+	display: block;
+}
+#about{
+	position: absolute;
+	background-image: url("../assets/gameofthorne.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 100%;
+	min-height: 100%;
+	width: 100%;
 }
 #heading{
 	font-family: TransformersFont;
 	font-size: 10vw;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 1;
+	transform: translate(-50%, -50%);
 }
 #sub-heading{
 	font-family: TransformersFont;
@@ -27,45 +59,87 @@ main{
 }
 #bumbulbee{
 	position: absolute;
-	top: 80%;
-	height: 400px;
-	left: -20%;
-	z-index: -1;
+	top: 50%;
+	height: 50%;
+	left: -10%;
+	z-index: 0;
 }
 #starwars1{
 	position: absolute;
-	top: 50%;
-	height: 400px;
+	bottom: 0%;
+	height: 40%;
 	left: 30%;
-	z-index: 10;
+	z-index: 0;
 	display: none;
 }
 #darthvader{
 	position: absolute;
-	top: 80%;
-	height: 400px;
-	right: -20%;
-	z-index: -1;
+	top: 50%;
+	height: 50%;
+	right: -5%;
+	z-index: 0;
 }
-@media screen and (max-width: 768px) {	
-	main{
-		top: 0px;
-		left: 4%;
-		position: absolute;
-		height: 100%;
-		z-index: -111;
+#johnwick{
+	position: absolute;
+	bottom: 0px;
+	/*right: -20%;*/
+	left: -28%;
+}
+.icon-scroll,
+.icon-scroll:before{  
+	position: absolute;
+  	left: 50%;
+}
+.icon-scroll{
+  width: 40px;
+  height: 70px;
+  margin-left: -20px;
+  bottom: 10%;
+  margin-top: -35px;
+  box-shadow: inset 0 0 0 1px #fff;
+  border-radius: 25px
+}
+
+.icon-scroll:before{
+  content: '';
+  width: 8px;
+  height: 8px;
+  background: #fff;
+  margin-left: -4px;
+  top: 8px;
+  border-radius: 4px;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-name: scroll;
+}
+#youtube-frame{
+	width: 100%;
+	min-height: 300px;
+	background-image: url('../assets/dj_paroma.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 80%;
+}
+
+@keyframes scroll{ 
+	0%{opacity: 1;}
+   100%{opacity: 0;transform: translateY(46px);}
+ }
+
+@media screen and (max-width: 768px) {
+	body{
+		/*height: 100% !important;*/
+		width: 100% !important;
 	}
 	#div-heading{
 		position: absolute;
 		top: 30%;
 	}
 	#heading{
-		font-family: TransformersFont;
 		font-size: 15vw;
 	}
 	#sub-heading{
-		font-family: TransformersFont;
-		font-size: 4vw;
+		font-size: 3vw;
 	}
 	#darthvader{
 		display: none;
@@ -74,4 +148,58 @@ main{
 		display: none;
 	}
 	#starwars1{display: block;}
+	.icon-scroll{
+		display: none;
+	}
+}
+#sidebar{
+	text-align: center;
+	font-size: 22px;
+}
+.fa{
+	margin: 10px;
+}
+a.fa{
+	color: black;
+	text-decoration: none;
+	height: 36px;
+	width: 37px;
+	padding-top: 7px;
+}
+a:hover.fa{
+	color: black;
+	text-decoration: none;
+}
+.fa-facebook{
+	background-color: #3b5998;
+	color: white !important;
+}
+.fa-facebook:hover{
+	background-color: white !important;
+	color: #3b5998 !important;
+}
+.fa-instagram{
+	background-image:  linear-gradient(#405de6, #5851db, #833ab4,#c13584,#e1306c,#fd1d1d,#f56040,#f77737,#fcaf45,#ffdc80);
+	color: white !important;
+}
+.fa-instagram:hover{
+	background-image: none;
+	background-color: white !important;
+	color: #c13584 !important;
+}
+.fa-youtube{
+	background-color: #c4302b !important;
+	color: white !important;
+}
+.fa-youtube:hover{
+	background-color: white !important;
+	color: #c4302b !important;
+}
+.fa-envelope-o{
+	background-color: #D44638 !important;
+	color: white !important;
+}
+.fa-envelope-o:hover{
+	background-color: white !important;
+	color: #D44638 !important;
 }
