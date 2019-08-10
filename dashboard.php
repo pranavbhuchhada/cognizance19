@@ -63,6 +63,13 @@
 					</span>
 				</div>
 			</div>
+<body class="container">
+<?php include 'header.php'; ?>
+<main class="container">
+	<div class="row" id="div-heading">
+		<div class="col-lg-12 text-center" >
+			<h1 id="heading">COGNIZANCE</h1>
+			<h2 id="sub-heading" style="letter-spacing: 15px">DREAM.EXPLORE.INNOVATE</h2>
 		</div>
 	</section>
 <script type="text/javascript" src="js/particles.js"></script>
