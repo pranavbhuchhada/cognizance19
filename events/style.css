@@ -8,11 +8,14 @@ body {
     background-color: #121212;
 }
 
+/*================== LEFT SIDED NAV MENU ==================*/
 .side-navbar {
+    width: 30vw;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     box-shadow: 40px 0 30px -40px #000;
+    text-align: center;
 }
 
 .side-navbar li {
@@ -24,16 +27,34 @@ body {
     transform: scale(1.3);
 }
 
-.side-navbar li>a {
+.side-navbar li>p {
     display: inline-block;
     padding: 20px 15px;
     position: relative;
     font-size: 1.5vw;
     color: #eee;
+    margin-bottom: 0;
 }
 
-.side-navbar li>a:hover {
-    text-decoration: none;
+.side-navbar li>p:hover {
+    cursor: pointer;
 }
 
-/*background-color: #383838;*/
+/*================ RIGHT SIDED EVENT LINKS ================*/
+.event-panel {
+    position: absolute;
+    width: 70vw;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    text-align: center;
+}
+
+.event-panel-heading {
+    color: #eee;
+    font-size: 4vw;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 3px 3px #555;
+    margin-bottom: 1rem;
+}
