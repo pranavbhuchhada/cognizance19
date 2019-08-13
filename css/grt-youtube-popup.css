@@ -47,11 +47,6 @@
 	-moz-box-shadow: 0px 0px 8px 0px rgba(255,255,255,0.4);
 	box-shadow: 0px 0px 8px 0px rgba(255,255,255,0.4);
 }
-
-.grtyoutube-dark-theme .grtyoutube-popup-close {
-	background: url('icon-close-white.png') no-repeat;
-}
-
 .grtyoutube-light-theme {
 	background: rgba(255,255,255, 0.85);
 }

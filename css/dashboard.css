@@ -1,23 +1,7 @@
-@font-face {
-  font-family: TransformersFont;
-  src: url(../assets/fonts/TransformersFont.ttf);
-}
-@font-face {
-  font-family: harrypotterfont;
-  src: url(../assets/fonts/harrypotterfont.TTF);
-}
-@font-face {
-  font-family: fastandfuriousfont;
-  src: url(../assets/fonts/fastandfuriousfont.TTF);
-}
-@font-face {
-  font-family: phorssa;
-  src: url(../assets/fonts/phorssa.TTF);
-}
 body{
 	cursor: url("../assets/harrypotter.png"),url("../assets/harrypotter.cur"),default;
 	color: white !important;
-	/*overflow: hidden;*/
+	overflow: hidden;
 }
 *::-webkit-scrollbar { width: 0 !important }
 #div-heading{
@@ -31,18 +15,17 @@ body{
 	left: 0;
 	z-index: -1;
 }
-#dashboard{
-	/*position: absolute;*/
-	display: block;
-}
 #about{
 	position: absolute;
-	background-image: url("../assets/gameofthorne.png");
+	/*background-image: url("../assets/gameofthorne.png");*/
+	background-color: rgb(229,214,182);
 	background-repeat: no-repeat;
 	background-size: cover;
 	top: 100%;
 	min-height: 100%;
 	width: 100%;
+	transition: top 0.5s;
+	border:2px solid black;
 }
 #heading{
 	font-family: TransformersFont;
@@ -79,11 +62,10 @@ body{
 	right: -5%;
 	z-index: 0;
 }
-#johnwick{
-	position: absolute;
-	bottom: 0px;
-	/*right: -20%;*/
-	left: -28%;
+.GameofThrones h1{
+	font-family: GameofThrones;
+	font-size: 3vw;
+	color: black;
 }
 .icon-scroll,
 .icon-scroll:before{  
@@ -115,10 +97,13 @@ body{
 #youtube-frame{
 	width: 100%;
 	min-height: 300px;
-	background-image: url('../assets/dj_paroma.jpg');
+	background-image: url('../assets/yrtcover.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 80%;
+}
+#upsidedown{
+	color:black;font-family: BenguiatBold;font-size: 4vw;
 }
 
 @keyframes scroll{ 
@@ -128,7 +113,7 @@ body{
 
 @media screen and (max-width: 768px) {
 	body{
-		/*height: 100% !important;*/
+		overflow-y: visible;
 		width: 100% !important;
 	}
 	#div-heading{
@@ -151,6 +136,14 @@ body{
 	.icon-scroll{
 		display: none;
 	}
+	.GameofThrones h1{
+		font-family: GameofThrones;
+		font-size: 6vw;
+		color: black;
+	}
+	#upsidedown{
+		font-size: 8vw;
+	}
 }
 #sidebar{
 	text-align: center;
@@ -167,7 +160,7 @@ a.fa{
 	padding-top: 7px;
 }
 a:hover.fa{
-	color: black;
+	color: black;	
 	text-decoration: none;
 }
 .fa-facebook{
