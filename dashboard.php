@@ -12,9 +12,9 @@
 	<link rel="stylesheet" type="text/css" href="css/hamburgers.min.css">
 	<link rel="stylesheet" type="text/css" href="css/grt-youtube-popup.css">
 	<link rel="stylesheet" type="text/css" href="css/particle.css">
+	<link rel="stylesheet" type="text/css" href="css/fonts.css">
 	<link rel="stylesheet" type="text/css" href="css/dashboard.css?v=1">
 	<link rel="stylesheet" type="text/css" href="css/navsidebar.css?v=1">
-
 	<link rel="shortcut icon" type="image/x-icon" href="assets/cz_logo.ico" />
 </head>
 <body>
@@ -64,13 +64,12 @@
 		</div>
 	</section>
 <script type="text/javascript" src="js/particles.js"></script>
-<?php include 'footer.php'; ?>
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/swipe_support.js"></script>
 	<script type="text/javascript" src="js/grt-youtube-popup.js"></script>
 	<script type="text/javascript" src="js/navsidebar.js"></script>
-	<script type="text/javascript" src="js/dashboard.js"></script>
+	<script type="text/javascript" src="js/dashboard.js?v=2"></script>
 	<script> $(".youtube-link").grtyoutube(); </script>
 	<?php include 'navsidebar.php'; ?>
 </body>

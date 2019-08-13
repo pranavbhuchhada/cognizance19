@@ -19,6 +19,14 @@
       '?rel=0&wmode=transparent&autoplay='+1+
       '&iv_load_policy=3" allowfullscreen frameborder="0" allow="autoplay; fullscreen"></iframe>'+'</div>'+'</div>');
       yrtset = true;
+      $(".grtyoutube-popup").on('click', function (event) {
+        event.preventDefault();
+        if (yrtset){
+          $(".grtyoutube-popup-close, .grtyoutube-popup").click(function(){
+            $(".grtyoutube-popup").remove();
+          });
+        }
+      });
     }
       $("body").css({"overflow":"visible"});
       currentpage =1;

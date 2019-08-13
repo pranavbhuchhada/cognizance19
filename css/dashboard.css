@@ -1,27 +1,3 @@
-@font-face {
-  font-family: TransformersFont;
-  src: url(../assets/fonts/TransformersFont.ttf);
-}
-@font-face {
-  font-family: harrypotterfont;
-  src: url(../assets/fonts/harrypotterfont.TTF);
-}
-@font-face {
-  font-family: fastandfuriousfont;
-  src: url(../assets/fonts/fastandfuriousfont.TTF);
-}
-@font-face {
-  font-family: phorssa;
-  src: url(../assets/fonts/phorssa.TTF);
-}
-@font-face {
-  font-family: BenguiatBold;
-  src: url(../assets/fonts/BenguiatBold.ttf);
-}
-@font-face {
-  font-family: GameofThrones;
-  src: url(../assets/fonts/GameofThrones.ttf);
-}
 body{
 	cursor: url("../assets/harrypotter.png"),url("../assets/harrypotter.cur"),default;
 	color: white !important;
@@ -137,7 +113,7 @@ body{
 
 @media screen and (max-width: 768px) {
 	body{
-		overflow: visible;
+		overflow-y: visible;
 		width: 100% !important;
 	}
 	#div-heading{

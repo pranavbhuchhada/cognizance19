@@ -1,0 +1,67 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	background-image: url("../assets/disconight.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	overflow-x: hidden;
+}
+#discobar{
+	height: 100%;
+	background-color: rgba(0,0,0,0.7);
+	font-family: disco;
+	color: white;
+	text-align: center;
+}
+#discobar h1{
+	font-size: 10vw;
+}
+#discodetails{
+}
+#discodetails h1{
+	font-size: 8vw;
+	font-family: NuevoDisco;
+	color: white;
+	text-align: center;
+}
+#discodetails h2{
+	font-size: 4vw;
+	font-family: NuevoDisco;
+	color: white;
+	text-align: center;
+}
+#discodetails h3{
+	font-size: 3vw;
+	font-family: NuevoDisco;
+	color: white;
+	text-align: center;
+}
+@media screen and (max-width: 768px) {
+	#discobar{
+		height: auto;
+	}
+	#discobar h1{
+		font-size: 25vw;
+	}
+	#discodetails{
+		background-color: rgba(0,0,0,0.7);		
+	}
+	#discodetails h1{
+		font-size: 20vw;
+	}
+	#discodetails h2{
+		font-size: 18vw;
+	}
+	#discodetails h3{
+		font-size: 15vw;
+	}
+	body{
+		overflow-y: scroll;
+	}
+}
