@@ -1,28 +1,55 @@
-
 .sidenav {
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 2;
+  z-index: 300;
   top: 0px;
   left: 0px;
   background-color: #121212;
   overflow-x: hidden;
   transition: 0.5s;
-  padding-top: 60px;
+  border-right: 5px solid white;
+  text-align: center;
+}
+.dropdown-btn {
+  padding: 4px 0px 4px 0px;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+.dropdown-container {
+  display: none;
+  background-color: #262626;
+  padding-left: 10px;
+}
+.active {
+  background-color: white;
+  color: black;
+}
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
 }
 .is-active{
-  width: 400px !important;
+  width: 300px !important;
 }
 .sidenav a {
-  padding: 8px 8px 8px 32px;
+  padding: 8px 0px 0px 0px;
   text-decoration: none;
-  font-size: 25px;
+  font-family: monospace;
+  font-size: 3vh;
   color: #818181;
   display: block;
   transition: 0.3s;
 }
-
 .sidenav a:hover {
   color: #f1f1f1;
 }
@@ -35,10 +62,66 @@
   margin-left: 50px;
 }
 
+#sidebar{
+  text-align: center;
+  font-size: 22px;
+}
+#social a{
+  font-family: FontAwesome;
+  display: inline-block;
+  text-decoration: none;
+}
+.fa{
+  margin: 10px;
+}
+.fa{
+  color: black;
+  text-decoration: none;
+  height: 36px;
+  width: 37px;
+  padding-top: 7px;
+}
+.fa:hover{
+  color: black; 
+  text-decoration: none;
+}
+.fa-facebook{
+  background-color: #3b5998;
+  color: white !important;
+}
+.fa-facebook:hover{
+  background-color: white !important;
+  color: #3b5998 !important;
+}
+.fa-instagram{
+  background-image:  linear-gradient(#405de6, #5851db, #833ab4,#c13584,#e1306c,#fd1d1d,#f56040,#f77737,#fcaf45,#ffdc80);
+  color: white !important;
+}
+.fa-instagram:hover{
+  background-image: none;
+  background-color: white !important;
+  color: #c13584 !important;
+}
+.fa-youtube{
+  background-color: #c4302b !important;
+  color: white !important;
+}
+.fa-youtube:hover{
+  background-color: white !important;
+  color: #c4302b !important;
+}
+.fa-envelope-o{
+  background-color: #D44638 !important;
+  color: white !important;
+}
+.fa-envelope-o:hover{
+  background-color: white !important;
+  color: #D44638 !important;
+}
 @media screen and (max-width: 768px) {
   .sidenav {padding-top: 15px;}
   .is-active{
-    width: 100% !important;
+    width: auto !important;
   }
   .sidenav a {font-size: 18px;}
 }

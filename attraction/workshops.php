@@ -74,14 +74,14 @@
 	<div id="workshop_m_1" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">AWS: Cloud services and infrastructure</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">This workshop will cover basic topics and to a certain advanced level for deploying a project on AWS Cloud. All the key services, architectural principles, security, billing and pricing models, etc. will be covered throughout the workshop. The workshop will also include 2-3 hands-on projects.</p>				
 					</div>
 				</div>
@@ -100,14 +100,14 @@
 	<div id="workshop_m_2" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">Deep Learning Workshop by Nvidia</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">
 						Description	Workshop's outcomes are as follows:<br>
 							- In this hands-on workshop, you will learn the basics of deep learning by training and deploying neural networks.<br>
@@ -135,14 +135,14 @@
 	<div id="workshop_m_3" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">Artificial Intelligence-Neural network</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">
 							-Introduction to Artificial Intelligence<br>
 							-Fuzzy logic<br>
@@ -170,14 +170,14 @@
 	<div id="workshop_m_4" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">3D-Printing workshop</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">SOLIDWORKS is a single window 3D CAD software which includes CAD modelling, analysis &amp; Validations, Product Presentations, Communication/ Process Animation and data management for Mechanical &amp; Electrical engineering products.<br>It also covers special 3D Printing module since 2016.</p>				
 					</div>
 				</div>
@@ -196,14 +196,14 @@
 	<div id="workshop_m_6" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">Embedded Linux</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">Description	This workshop is perfect for those wanting to develop or build an Embedded Linux system from scratch or commercial embedded Linux solutions.<br>
 						The course starts by looking at the basics of Embedded linux and various components of an embedded<br>
 						Linux target and development choices. Next we take a more look at the Linux kernel architecture,important issues such as cross compilation and building of the most important components.</p>				
@@ -226,14 +226,14 @@
 	<div id="workshop_m_5" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">Project Management</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>				
 					</div>
 				</div>
@@ -252,14 +252,14 @@
 	<div id="workshop_m_7" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">Ethical Hacking</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>				
 					</div>
 				</div>
@@ -278,14 +278,14 @@
 	<div id="workshop_m_8" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
 						<h1 class="text-center">Blockchain</h1>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12 mt-5">
 						<p class="text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>				
 					</div>
 				</div>

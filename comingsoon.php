@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php header("Location: dashboard.php") ?>
+<!-- <!DOCTYPE html>
 <html>
 <head>
 	<title>Cognizance 2019</title>
@@ -60,4 +61,4 @@
 	<script type="text/javascript" src="js/comingsoon.js"></script>
 	<script type="text/javascript" src="js/timer.js"></script>
 </body>
-</html>
+</html> -->

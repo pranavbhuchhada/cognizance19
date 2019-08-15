@@ -5,16 +5,21 @@
 }
 
 body {
-    background-color: #121212;
+    height: 100%;
+    overflow: hidden;
+    background-color: #000;
 }
-
+@font-face{
+    font-family: nidsans;
+    src:url("../assets/fonts/nidsans-webfont.ttf");
+}
 /*================== LEFT SIDED NAV MENU ==================*/
 .side-navbar {
     width: 30vw;
-    position: absolute;
+    position: fixed;
     top: 50%;
     transform: translateY(-50%);
-    box-shadow: 40px 0 30px -40px #000;
+    box-shadow: 40px 0 30px -40px #f7bd02;
     text-align: center;
 }
 
@@ -31,8 +36,9 @@ body {
     display: inline-block;
     padding: 20px 15px;
     position: relative;
+    font-family: nidsans;
     font-size: 1.5vw;
-    color: #eee;
+    color: #f7bd02;
     margin-bottom: 0;
 }
 
@@ -51,10 +57,153 @@ body {
 }
 
 .event-panel-heading {
-    color: #eee;
-    font-size: 4vw;
+    color: #f7bd02;
+    font-size: 3vw;
+    font-family: nidsans;
     text-align: center;
-    font-weight: bolder;
     text-shadow: 3px 3px #555;
     margin-bottom: 1rem;
+}
+.event-panel-heading a{
+    color: #f7bd02;
+    text-decoration: none;
+}
+.event-panel-heading a:hover{
+    transition: all 0.3s;
+    font-size: 3.5vw;
+    color: white;
+}
+.sacred{
+    z-index: -2;
+}
+.modal-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+    background: #f7bd02;
+    border-radius: 3px;
+}
+
+.modal-content::-webkit-scrollbar-thumb:hover {
+    background: #3284B5;
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 300; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  font-family: nidsans;
+  color: white;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background-color: black;
+  background-image: url("../assets/sacredgames.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 8vw;
+  box-shadow: 0px 0px 30px 0px #f7bd02;
+  margin: auto;
+  padding: 2vw;
+  width: 70%;
+  height: 70%;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s;
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-50%; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-50%; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+  width: 32px;
+  height: 32px;
+  opacity: 0.3;
+}
+.close:hover {
+  opacity: 1;
+}
+.close:before, .close:after {
+  position: absolute;
+  content: ' ';
+  height: 33px;
+  width: 2px;
+  background-color: #f7bd02;
+}
+.close:before {
+  transform: rotate(45deg);
+}
+.close:after {
+  transform: rotate(-45deg);
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        height: auto;
+        overflow-y: visible;
+    }
+    .event-panel {
+        height: 70vh;
+        position: absolute;
+        width: 100vw;
+        transform: translateY(-50%);
+        top: 35%;
+    }
+    .event-panel-heading {
+        color: #f7bd02;
+        font-size: 6vw;
+    }
+    .side-navbar{
+        background-color: black;
+        z-index: 2;
+        padding: 0;
+        height: auto;
+        width: 100vw;
+        transform: translateY(0%);
+        transform: translateX(-50%);
+        top: auto;    
+        bottom: 0;
+        left: 50%;
+        box-shadow: none;
+        margin: 0;     
+    }
+    .side-navbar li>p {
+        font-size: 3vw;
+    }
+    .modal {
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+    .modal-content{
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
 }

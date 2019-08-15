@@ -36,13 +36,38 @@ body{
 	overflow-x: hidden;
 	width: 100%;
 }
+#workshop_1{
+	background-image: url("../assets/aws_logo.png");
+}
+#workshop_2{
+	background-image: url("../assets/nvidia_logo.png");
+}
+#workshop_3{
+	background-image: url("../assets/ai_logo.gif");
+}
+#workshop_4{
+	background-image: url("../assets/3d_logo.jpg");
+}
+#workshop_5{
+	background-image: url("../assets/project_logo.jpg");
+}
+#workshop_6{
+	background-image: url("../assets/linux_logo.png");
+}
+#workshop_7{
+	background-image: url("../assets/hacking_logo.jfif");
+}
+#workshop_8{
+	background-image: url("../assets/blockchain_logo.jpg");
+}
+
 .workshop-card{
 	min-height: 200px;
-	background-image: url("../assets/yrtcover.png");
-	background-size: cover;
-	background-repeat: no-repeat;
 	margin: 3vw;
 	padding: 0px !important;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 	/*border:2px solid white; */
 }
 .workshop-card:hover .overlay{
@@ -53,9 +78,10 @@ body{
 	width: 100%;
 	opacity: 0;
 	transition: all 0.4s;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.77);
 }
 .overlay h1{
+	font-size: 2vw;
 	transform: translate(-50%,-50%);
 	position: absolute;
 	top: 50%;
@@ -136,6 +162,12 @@ body{
 }
 
 @media screen and (max-width: 768px) {
+	.overlay{
+		opacity: 1;
+	}
+	.overlay h1{
+		font-size: 5vw;
+	}
 	#work_h{
 		font-size: 10vw;
 	}

@@ -63,6 +63,7 @@
 			</div>
 		</div>
 	</section>
+	<?php include 'navsidebar.php'; ?>
 <script type="text/javascript" src="js/particles.js"></script>
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
@@ -71,6 +72,5 @@
 	<script type="text/javascript" src="js/navsidebar.js"></script>
 	<script type="text/javascript" src="js/dashboard.js?v=2"></script>
 	<script> $(".youtube-link").grtyoutube(); </script>
-	<?php include 'navsidebar.php'; ?>
 </body>
 </html>
