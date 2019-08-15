@@ -58,3 +58,41 @@ body {
     text-shadow: 3px 3px #555;
     margin-bottom: 1rem;
 }
+
+/*===================== MEDIA QUERIES =====================*/
+@media (max-width: 800px) {
+    .side-navbar {
+        background-color: red;
+        top: 60vh;
+        width: 100vw;
+        transform: translateY(0%);
+        box-shadow: none;
+    }
+
+    .side-navbar li {
+        display: inline;
+    }
+
+    .side-navbar li>p {
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    .event-panel {
+        background-color: blue;
+        top: 0px;
+        transform: translateY(0%);
+        width: 100vw;
+        height: 60vh;
+    }
+
+    .event-panel-heading {
+        position: absolute;
+        margin: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+        right: 0;
+        font-size: 11vw;
+    }
+}

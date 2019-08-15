@@ -15,10 +15,7 @@
 </head>
 
 <body>
-    <!-- header part will come here -->
-    <header style="background-color: #22252A; height: 10vh; width: 100%;"></header>
-
-    <section style="min-height: 80vh;">
+    <section> 
         <!-- left sided navbar -->
         <ul class="side-navbar" role="tablist">
             <li><p onclick="event_f1()">Tech-Event 1</p></li>
@@ -57,10 +54,6 @@
             </div>
         </div>
     </section>
-
-    <!-- footer part will come here -->
-    <footer style="background-color: #1F1A24; height: 10vh; width: 100%;"></footer>
-
     <script src="./script.js"></script>
 </body>
 
