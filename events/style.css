@@ -62,11 +62,12 @@ body {
 /*===================== MEDIA QUERIES =====================*/
 @media (max-width: 800px) {
     .side-navbar {
-        background-color: red;
         top: 60vh;
         width: 100vw;
         transform: translateY(0%);
         box-shadow: none;
+        padding-left: 10vw;
+        padding-right: 10vw;
     }
 
     .side-navbar li {
@@ -79,7 +80,6 @@ body {
     }
 
     .event-panel {
-        background-color: blue;
         top: 0px;
         transform: translateY(0%);
         width: 100vw;
