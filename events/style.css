@@ -9,10 +9,12 @@ body {
     overflow: hidden;
     background-color: #000;
 }
+
 @font-face{
     font-family: nidsans;
     src:url("../assets/fonts/nidsans-webfont.ttf");
 }
+
 /*================== LEFT SIDED NAV MENU ==================*/
 .side-navbar {
     width: 30vw;
@@ -65,12 +67,14 @@ body {
     margin-bottom: 1rem;
 }
 .event-panel-heading a{
+    font-size: 3vw;
+    display: inline-block;
     color: #f7bd02;
     text-decoration: none;
+    transition: all 0.3s ease 0s;
 }
 .event-panel-heading a:hover{
-    transition: all 0.3s;
-    font-size: 3.5vw;
+    transform: scale(1.2);
     color: white;
 }
 .sacred{
@@ -88,6 +92,7 @@ body {
 .modal-content::-webkit-scrollbar-thumb:hover {
     background: #3284B5;
 }
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -111,7 +116,7 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
   background-color: black;
-  background-image: url("../assets/sacredgames.png");
+  background-image: url("../assets/sacredgames_opacity_70.png");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
