@@ -1,42 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-	<style type="text/css">
-		html,body{
-			max-width: 100% !important;
-		}
-		.ml4 {
-		  position: relative;
-		  font-weight: 900;
-		  font-size: 6vw;
-		}
-		.ml4 .letters {
-		  position: absolute;
-		  transform: translate(-100%,-100%);
-		  margin: auto;
-		  left: 35vw;
-		  top: 35vh;
-		  opacity: 0; 
-		}	
-	</style>
-</head>
-<body>
-	<div id="preloader">
-		<h1 class="ml4">
-  			<span class="letters letters-1">DREAM</span>
-  			<span class="letters letters-2">EXPLORE</span>
+<div id="loader">
+	<div id="preloader" style="height: 30vh;
+			width: 30vw;
+			position: absolute;
+			transform: translate(-50%,-50%);
+			margin: auto;
+			top: 50%;
+			left: 50%;background-color: black;">
+		<h1 class="ml4" style="font-weight: 900;
+		  font-size: 6vw;">
+  			<span style="position: absolute;opacity: 0;transform: translate(-50%,-50%);" class="letters letters-1">&nbsp;&nbsp;DREAM&nbsp;</span>
+  			<span class="letters letters-2">&nbsp;EXPLORE</span>
   			<span class="letters letters-3">INNOVATE</span>
 		</h1>
 	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 	<script type="text/javascript">
+		
 		var ml4 = {};
 		ml4.opacityIn = [0,1];
 		ml4.scaleIn = [0.2, 1];
 		ml4.scaleOut = 3;
-		ml4.durationIn = 100;
-		ml4.durationOut = 100;
+		ml4.durationIn = 300;
+		ml4.durationOut = 300;
 		ml4.delay = 300;
 
 		anime.timeline({loop: true})
@@ -44,7 +29,7 @@
 		    targets: '.ml4 .letters-1',
 		    opacity: ml4.opacityIn,
 		    scale: ml4.scaleIn,
-		    duration: ml4.durationIn
+		    duration: ml4.durationIn,
 		  }).add({
 		    targets: '.ml4 .letters-1',
 		    opacity: 0,
@@ -83,5 +68,13 @@
 		    delay: 500
 		  });
 	</script>
-</body>
-</html>
+</div>
+<script type="text/javascript">
+	var loader = document.getElementById('loader');
+	loader.style.height = window.innerHeight + "px";
+	loader.style.width = window.innerWidth + "px";
+	loader.style.backgroundColor = "black";
+	loader.style.color = "#EEE";
+	loader.style.overflow = "hidden";
+	document.body.style.display = "none";
+</script>

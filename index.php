@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Cognizance 2019">
 	<meta name="keywords" content="cognizance 2019, Cognizance, 2019, cz2019, cz19, cz, 19, Charusat, charotar, university, techfest, technical, fest, changa, cspit, depstar, events, event, non-tech">
-	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja, akash patel">
+	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja">
 </head>
 <body>
 	<?php 

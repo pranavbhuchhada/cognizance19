@@ -25,10 +25,9 @@ body{
 }
 .guest-card{
 	min-height: 200px;
-	background-image: url("../assets/yrtcover.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin: 3vw;
+	margin: 1vw;
 	padding: 0px !important;
 	border:2px solid white;
 }

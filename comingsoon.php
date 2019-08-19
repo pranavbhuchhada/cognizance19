@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Cognizance 2019">
 	<meta name="keywords" content="cognizance 2019, Cognizance, 2019, cz2019, cz19, cz, 19, Charusat, charotar, university, techfest, technical, fest, changa, cspit, depstar, events, event, non-tech">
-	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja, akash patel">
+	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/comingsoon.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

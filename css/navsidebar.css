@@ -1,14 +1,13 @@
 .sidenav {
   height: 100%;
-  width: 0;
+  width: 0px;
   position: fixed;
   z-index: 300;
   top: 0px;
   left: 0px;
   background-color: #121212;
   overflow-x: hidden;
-  transition: 0.5s;
-  border-right: 5px solid white;
+  transition:all 0.5s;
   text-align: center;
 }
 .dropdown-btn {
@@ -119,9 +118,12 @@
   color: #D44638 !important;
 }
 @media screen and (max-width: 768px) {
-  .sidenav {padding-top: 15px;}
-  .is-active{
-    width: auto !important;
+  .sidenav {
+    padding-top: 15px;
   }
-  .sidenav a {font-size: 18px;}
+  .is-active{
+    width: 100% !important;
+  }
+  .sidenav a {font-size: 18px;
+  }
 }

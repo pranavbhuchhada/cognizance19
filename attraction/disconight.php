@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Disco Night</title>
+	<title>Pro Night</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Cognizance 2019">
 	<meta name="keywords" content="cognizance 2019, Cognizance, 2019, cz2019, cz19, cz, 19, Charusat, charotar, university, techfest, technical, fest, changa, cspit, depstar, events, event, non-tech">
-	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja, akash patel">
+	<meta name="author" content="Pranav Bhuchhada(pranavbhuchhada@gmail.com), chirayu joshi, mitraj jadeja">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="../css/fonts.css">
@@ -20,7 +20,7 @@
 			<div class="col-2"></div>
 			 <div id="discobar" class="col-md-5 col-sm-12 col-xs-12 col-12">
 			 	<img  src="../assets/dancinggirl3.png" class="img-fluid" style="margin: auto;padding:10% 20% 0% 20%;" >
-			 	<h1 style="">Disco<br>Night</h1>
+			 	<h1 style="">Pro<br>Night</h1>
 			 </div>
 			 <div id="discodetails" class="col-md-5 col-sm-12 col-xs-12 col-12">
 			 	<h1>D J</h1>

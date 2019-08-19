@@ -11,20 +11,12 @@
   src: url(../assets/fonts/fastandfuriousfont.TTF);
 }
 @font-face {
-  font-family: phorssa;
-  src: url(../assets/fonts/phorssa.TTF);
-}
-@font-face {
   font-family: BenguiatBold;
   src: url(../assets/fonts/BenguiatBold.ttf);
 }
 @font-face {
   font-family: GameofThrones;
   src: url(../assets/fonts/GameofThrones.ttf);
-}
-@font-face {
-  font-family: BreakingBad;
-  src: url(../assets/fonts/BreakingBad.otf);
 }
 @font-face {
   font-family: disco;
