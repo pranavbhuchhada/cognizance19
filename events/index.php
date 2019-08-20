@@ -25,6 +25,7 @@
             <li class="col-md-12 col-sm-4 col-xs-4 col-4"><p onclick="event_f4()">Electrical Enginneering</p></li>
             <li class="col-md-12 col-sm-4 col-xs-4 col-4"><p onclick="event_f5()">Civil Engineering</p></li>
             <li class="col-md-12 col-sm-4 col-xs-4 col-4"><p onclick="event_f6()">Mechanical Engineering</p></li>
+            <li class="col-md-12 col-sm-12 col-xs-12 col-12"><p onclick="event_f7()">Non - Tech</p></li>
         </ul>
         <!-- right sided event links -->
         <div class="event-panel">
@@ -51,7 +52,8 @@
                     <a id="it_2" href="#">Tech Rodies</a><br>
                     <a id="it_3" href="#">Connection Match</a><br>
                     <a id="it_4" href="#">Clash Riddle</a><br>
-                    <a id="it_5" href="#">Subterfuge</a>                    
+                    <a id="it_5" href="#">Subterfuge</a><br>                 
+                    <a id="it_6" href="#">Mission Hackathon</a>                    
                 </p>
                 <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
             </div>
@@ -71,7 +73,7 @@
                     <a id="ee_1" href="#">Sacred Games</a><br>
                     <a id="ee_2" href="#">Electrobuzz</a><br>
                     <a id="ee_3" href="#">Relm of Circuits</a><br>
-                    <a id="ee_4" href="#">Astrotech</a><br>
+                    <a id="ee_4" href="#">AstroMech - Aisle</a><br>
                 </p>
                 <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
             </div>
@@ -92,6 +94,15 @@
                     <a id="me_2" href="#">Solid War</a><br>
                     <a id="me_3" href="#">Space X</a><br>
                     <a id="me_4" href="#">Fast & Furious</a><br>
+                </p>
+                <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
+            </div>
+            <div id="section_event_7" class="hide">
+                <img src="../assets/sacredgames_upper.png" class="img-fluid sacred">
+                <p class="event-panel-heading pt-3">
+                    <a id="nt_1" href="#">Back To Box Office</a><br>
+                    <a id="nt_2" href="#">Rodies</a><br>
+                    <a id="nt_3" href="#">Reach The Endgame</a><br>
                 </p>
                 <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
             </div>
@@ -171,8 +182,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -181,7 +192,6 @@
                         <h5 class="text-center">Palak Bhalodi<br>9825240790</h5>
                         <h5 class="text-center">Akash Saparia<br>9904464334</h5>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -241,8 +251,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -312,8 +322,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -413,8 +423,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -488,8 +498,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -514,7 +524,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 mt-5">
-                        <p class="text-center">Code Runner is an individual event. It consists of aptitude, basic level competitive coding and amp. The last round will be speed typing with no language barrier.</p>                
+                        <p class="text-center">Code Runner is an individual event. It consists of aptitude, basic level competitive coding and amp. The last round will be speed typing with no language barrier.</p>              
                     </div>
                 </div>
                 <div class="row mt-4">
@@ -550,8 +560,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -571,7 +581,7 @@
                 <div class="row mt-5">
                     <div class="col-12">
                         <span class="pull-right"><a href="#" class="close"></a></span>
-                        <h1 class="text-center">Tech Roadie</h1>
+                        <h1 class="text-center">Tech Roadies</h1>
                     </div>
                 </div>
                 <div class="row">
@@ -634,8 +644,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -702,8 +712,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per participant</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -779,8 +789,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -854,8 +864,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -863,6 +873,80 @@
                         <h5 class="text-center">Contact</h5>
                         <h5 class="text-center">Nachiketa Buddha<br>8154912440</h5>
                         <h5 class="text-center">Mahek Master<br>7405295489</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="event_it_6" class="modal">
+        <div class="modal-content">
+            <div class="container-fluid">
+                <div class="row mt-5">
+                    <div class="col-12">
+                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <h1 class="text-center">Mission Hackathon</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 mt-5">
+                        <p class="text-center">Ever since android was launched in September 2008, it has gained never ending popularity by virtue of being free and modifiable android is ruling the smart device world many OS entered and exited but Android remained unmoved so here is event for interested android developers to show their talents on a provided platform.</p>                
+                    </div>
+                </div>
+                <!-- <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class ="text-center">Rounds</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-center">Round 1:<br>Quiz<br><br>
+                            Round 2:<br>
+                            Verbal Buzzer Round<br><br>
+                            Round 3:<br>Final Relay Round<br><br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Rules</h1>
+                    </div>
+                </div> -->
+                <!-- <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                            This is a team event and the team size has been
+                            restricted to 2 members per team.<br>The qualification percentage in all three rounds is
+                            50% i.e., if 40 teams in-total participate for the event,
+                            20 teams get qualified for the buzzer round and only
+                            10 teams get qualified as finalists.<br>The first round is of 90 minutes involving two sets of
+                            45 minutes Quiz time. It is to be conducted on a
+                            reputed online platform.<br>In the 2
+
+                            nd round: the Buzzer round, if and when the
+                            team which answers first, answers wrong,
+                            opportunities will galore for the team which pressed
+                            the buzzer a little-too late and came-in second.<br>As for the final round: the Relay round, each team
+                            member will be allowed to code for only 15 minutes.
+                            After the allotted time gets over, next teammate will
+                            be replacing current one and he/she should continue
+                            the chain.<br>Each solution gets tested on test cases defined by us.<br>Top 3 teams from the final leaderboard gets deemed
+                            eligible for intimidating prizes.<br>A tiebreaker round will be conducted in case of tie.
+                            (or the code with minimum errors will get selected)<br>There will be a provision of break in-between all
+                            three rounds.
+                        </p>
+                    </div>
+                </div> -->
+                <div class="row mt-5">
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
+                    </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Vasu Gamdha<br>9974960207</h5>
+                        <!-- <h5 class="text-center">Nishant Ruparelia<br></h5> -->
                     </div>
                 </div>
             </div>
@@ -910,7 +994,6 @@
 							3.	The robot can be controlled by wired/wireless.  If the robot is controlled wirelessly the robot must have a frequency remote control circuit which can avoid frequency interference with other teams.(Recommended to have 2 frequencies to avoid interference) .<br>
 							4.	If the robot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the robot should be stacked as a single unit. The wires should be properly insulated.  Loose connections or improper wiring may lead to direct disqualification even before the event. The length of wire must be able to cover the full arena.<br>
 							5.	Voltage: Working Voltage must not exceed  24V.<br>
-
                         </p>
                     </div>
                 </div>
@@ -1302,12 +1385,12 @@
                             participants will be blind - folded and the other one will instruct the partner to 
                             follow the path and collect the objects. The team with the maximum points/money will be moving forward.
                             <br><br>
-                            Round 4: Treasurehun<br>
+                            Round 4: Treasurehunt<br>
                             The participants will be given clues and have to solve each of them to move 
                             forward. The teams which reaches early at the final destination will be moving 
                             forward.
                             <br><br>
-                            Round 3: Warzon<br>
+                            Round 5: Warzone<br>
                             This will be individual round. All play for themselves. The butter paper ring will 
                             held on their heads and a water gun will be given to them. Each participant will 
                             have to protect their ring and have to destroy other participants ring. The one 
@@ -1335,8 +1418,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1365,14 +1448,24 @@
                         </p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+                            This will be a kind of screening test. This is a round which will make you remind of
+                            your basics which we had learned earlier and test your speed of basic electrical problem solving 
+                            <br><br>
+                            Round 2:<br>
+                            This is a fun round where-in we will play an amazing electronic
+                            based game . People having the knowledge of logic gates will grab the opportunity to play on the
+                            next round.<br><br>
+                            Round 3:<br>
+                            The one who knows application of their knowledge of electrical will be
+                            the winner.<br><br>
                         </p>
                     </div>
                 </div>
@@ -1385,11 +1478,11 @@
                     <div class="col-12">
                         <p class = "text-center"></p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1408,27 +1501,36 @@
                 <div class="row mt-5">
                     <div class="col-12">
                         <span class="pull-right"><a href="#" class="close"></a></span>
-                        <h1 class="text-center">Relm Of Circuits</h1>
+                        <h1 class="text-center">INFINITY WAR</h1>
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-12 mt-5">
                         <p class="text-center">This event has 3 rounds. First round consists of group discussion (without language barrier). Next round would be a technical treasure hunt and the last round would be related to electric circuit.</p>                
                     </div>
-                </div>
-                <!-- <div class="row mt-4">
+                </div> -->
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>Group Discussion<br><br>
-                            Round 2:<br>Treasure Hunt<br><br>
-                            Round 3:<br>Circuitry<br><br>
+                        <p class="text-center">Round 1: Collect the infinity stones<br>
+                            All the participants will be distributed in a group of 50 i.e. there will be 4 slots. Each slot will have to collect infinity balls. On basis of the selection will be told to them at the time of event. From each slot 25 participants will be selected.<br><br>
+                            Round 2: Welcome to Titan<br>The hands of each participant will be tied up by a rope and they will have to grab the packets hanging on the ceiling with their mouth. Further after reaching the final line, the participants will have to cross the barrel round where they have to cross various barrels, hurdles and complete the task. <br><br>
+                            Round 3: Grab the Storm Breaker<br>
+                            The participants will be in pairs and have to collect points/money. One of the participants will be blindfolded and the other one will instruct the partner to follow the path and collect the objects. The team with the maximum points/money will be moving forward.
+                            <br><br>
+                            Round 4: Assemble the avengers<br>
+                            The participants will be given clues and have to solve each of them to move forward. The team which reaches early at the final destination will be moving forward.
+                            <br><br>
+                            Round 5: The Mad Titan<br>
+                            This will be an individual round. All will play for themselves. The butter paper ring will be held on their heads and a water gun will be given to them. Each participant will have to protect their ring and have to destroy other participants ring. The one player with the ring (intact) on their head will be the winner.
+                            <br><br>
                         </p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="row mt-4">
                     <div class="col-12">
                         <h1 class="text-center">Rules</h1>
@@ -1441,8 +1543,8 @@
                 </div> -->
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1462,7 +1564,7 @@
                 <div class="row mt-5">
                     <div class="col-12">
                         <span class="pull-right"><a href="#" class="close"></a></span>
-                        <h1 class="text-center">Astrotech</h1>
+                        <h1 class="text-center">AstroMech - Aisle</h1>
                     </div>
                 </div>
                 <div class="row">
@@ -1554,8 +1656,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 300 per team</h5>
                     </div>
                 </div>
                 <div class="col-md-6 col-xs-12 col-sm-12">
@@ -1620,8 +1722,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1687,8 +1789,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1749,8 +1851,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1806,8 +1908,8 @@
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 200 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1872,7 +1974,7 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 200 per team</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1939,7 +2041,7 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 250</h5>
+                        <h5 class="text-center">Rs. 100</h5>
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
@@ -2010,7 +2112,7 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 150 </h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
@@ -2042,9 +2144,18 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>Assembly Round ( 50 points /-)<br><br>
-                        	Round 2:<br>Cost estimation(on paper) and oral presentation (50 points /-)<br><br>
-                        	Round 3:<br>Endurance round and breaking test.<br><br>
+                        <p class="text-center">Round 1:<br> Team has to assemble whole tricycle in 30 mins. Team whose  assemble time is less will win the round. WHOLE TEAM SHOULD BE THERE AT THE TIME OF ASSEMBLY<br><br>
+                        	Round 2:<br>: Team has to prepare the whole oral presentation upon the brief explanation of
+                            tricycle making, cost estimation should be in hard copy.<br>
+                            Maximum cost of tricycle should not exceed than 5000/- RS. (Preferable)
+                            <br><br>
+                        	Round 3:<br>
+                                1. Drive ur tricycle in gang way(track)<br>
+                                2. Track will have obstacles, ur tricycle should pass all the obstacles successfully.<br>
+                                3. Stopping the tricycle with you’re legs(or any kind of body part) is strictly prohibited.<br>
+                                4. In break test you’re tricycle should stop in between to mention points.<br>
+                                5. Additional push to the tricycle is not allowed (if this will happen team will be disqualified).
+                            <br><br>
                         </p>
                     </div>
                 </div>
@@ -2095,7 +2206,7 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                          <h5 class="text-center">Registration Fees</h5>
-                         <h5 class="text-center">Rs. 3000 per team</h5>
+                         <h5 class="text-center">Rs. 500 per team</h5>
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
@@ -2106,7 +2217,195 @@
 
             </div>
         </div>
-    </div>                          
+    </div>
+    <div id="event_nt_1" class="modal">
+        <div class="modal-content">
+            <div class="container-fluid">
+                <div class="row mt-5">
+                    <div class="col-12">
+                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <h1 class="text-center">Back To Box Office</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 mt-5">
+                        <p class="text-center">Back to Box-office is a non-technical event. It is an event with fun and various activities. It checks the skills and talent of participants.</p>               
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class ="text-center">Rounds</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-center">Round 1:<br>  
+                            Group Activity.<br><br>
+                            Round 2:<br>
+                            IPuzzle, situation based questions.<br><br>
+                            Round 3:<br>Talent Round<br><br>
+                            Round 4:<br>Physical task<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Rules</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                            1. Participants will be allowed to participate in group of 2-4.<br>
+                            2. Decision of crew will be final in case of dispute.<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
+                    </div>
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <!-- <h5 class="text-center">Contact</h5> -->
+                        <!-- <h5 class="text-center">Name Number</h5> -->
+                        <!-- <h5 class="text-center">name Number</h5> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="event_nt_2" class="modal">
+        <div class="modal-content">
+            <div class="container-fluid">
+                <div class="row mt-5">
+                    <div class="col-12">
+                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <h1 class="text-center">Roadies</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 mt-5">
+                        <p class="text-center">Roadies is a non technical event. This event is for fun and entertainment, also for to check ability and skills of the participants
+                        </p>               
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class ="text-center">Rounds</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-center">Round 1:<br>  
+                            Paper Quiz<br><br>
+                            Round 2:<br>
+                            Situation And Puzzle Story<br><br>
+                            Round 3:<br>Group Discussion And Personal Interview.<br><br>
+                            Round 4:<br>Physical task and mind mapping<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Rules</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                            <br>1. Groups will be formed by ourteam.
+                            <br>2. For each round the points are decidedaccordingly.
+                            <br>3. If there is a situation of TIE, total scores will decide the
+                            winner.
+                            <br>4. Use of internet is not allowed for round 1 &2.
+                            <br>5. Participants are allowed to use the internet onlywhen said
+                            by coordinaters in the finalround.
+                            <br>6. In case of any misbehave or cheating found byany
+                            supportive person the team will bedisqualified.
+                            <br>7. students are not allowed to use any of the material other than
+                            given by eventcoordinator.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
+                    </div>
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <!-- <h5 class="text-center">Contact</h5> -->
+                        <!-- <h5 class="text-center">Name Number</h5> -->
+                        <!-- <h5 class="text-center">name Number</h5> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="event_nt_3" class="modal">
+        <div class="modal-content">
+            <div class="container-fluid">
+                <div class="row mt-5">
+                    <div class="col-12">
+                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <h1 class="text-center">Reach the Endgame</h1>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class ="text-center">Rounds</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-center">
+                            Round 1: Signomatic<br>  
+                            We will write down the quotes in form of well known symbols. we can use quotes from variety of movie genres and give each team the paper(one paper maybe 5 movie quotes) and tell them to write down the name of the movie from which the quote is taken, those who finishes first the correct guessing will qualify that round.To make the game more complex we can also ask the participants to identify the character who spoke the quote.<br><br>
+                            Round 2: AV Quiz Round<br>  
+                            We will play a video which would be superimposed by another audio, the teams are expected to
+                            guess the song of the video. Top 5 teams will proceed for the 3rd round.<br><br>
+                            Round 3: Treasure Hunt<br>
+                            Hints will be given by us, they need to guess the location and look for the next hint. Top 10 teams will proceed for the 2nd round.<br><br>
+                            Round 4:<br>Surprise round<br><br>
+                        </p>
+                    </div>
+                </div>
+                <!-- <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Rules</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                            <br>1. Groups will be formed by ourteam.
+                            <br>2. For each round the points are decidedaccordingly.
+                            <br>3. If there is a situation of TIE, total scores will decide the
+                            winner.
+                            <br>4. Use of internet is not allowed for round 1 &2.
+                            <br>5. Participants are allowed to use the internet onlywhen said
+                            by coordinaters in the finalround.
+                            <br>6. In case of any misbehave or cheating found byany
+                            supportive person the team will bedisqualified.
+                            <br>7. students are not allowed to use any of the material other than
+                            given by eventcoordinator.
+                        </p>
+                    </div>
+                </div> -->
+                <div class="row mt-5">
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
+                    </div>
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <!-- <h5 class="text-center">Contact</h5> -->
+                        <!-- <h5 class="text-center">Name Number</h5> -->
+                        <!-- <h5 class="text-center">name Number</h5> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>                         
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="../js/navsidebar.js"></script>

@@ -48,7 +48,7 @@
 				</div>
 				<div id="workshop_5" class="col-md-3 col-sm-11 col-xs-11 col-11 workshop-card">
 					<div class="text-center overlay">
-						<h1>Project Management</h1>
+						<h1>Project Management For Civil Engineering</h1>
 					</div>
 				</div>
 				<div id="workshop_6" class="col-md-3 col-sm-11 col-xs-11 col-11 workshop-card">
@@ -87,11 +87,14 @@
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 300</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12"></div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
@@ -120,13 +123,16 @@
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 500</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12">
 						<h5 class="text-center">Experts<br>Mr Mrudang Pandya<br>Ms Priyanka Patel</h5>
 					</div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
@@ -155,13 +161,16 @@
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 300</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12">
 						<h5 class="text-center">Experts<br>Jigar Sarda<br>Dharmesh Dabhi<br>Mihir R Patel</h5>
 					</div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
@@ -178,16 +187,19 @@
 				</div>
 				<div class="row">
 					<div class="col-12 mt-5">
-						<p class="text-center">SOLIDWORKS is a single window 3D CAD software which includes CAD modelling, analysis &amp; Validations, Product Presentations, Communication/ Process Animation and data management for Mechanical &amp; Electrical engineering products.<br>It also covers special 3D Printing module since 2016.</p>				
+						<p class="text-center">Engineering Technique is 35+ years old Manufacturing company and since last 18 years well known for 3D-CAD Software SOLIDWORKS implementation also.<br>Why SOLIDWORKS: SOLIDWORKS is a single window 3D CAD software which includes CAD modelling,Analysis & Validations, Product Presentations, Communication/ Process Animation and Data management for Mechanical & Electrical engineering products. It also covers special 3D Printing Module from 2016 onwards! Because of this reason only current student of engineering college prefers SOLIDWORKS for their regular practical learning and even project design. This software is making engineering students’ life easy in their work of project designing and education!</p>				
 					</div>
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 300</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12"></div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
@@ -211,45 +223,51 @@
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 700</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12">
 						<h5 class="text-center">Experts<br>Mr. Jagrut Shah</h5>
 					</div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="workshop_m_5_f" class="modal">
+	<div id="workshop_m_5" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
 				<div class="row mt-5">
 					<div class="col-12">
 						<span class="pull-right"><a href="#" class="close"></a></span>
-						<h1 class="text-center">Project Management</h1>
+						<h1 class="text-center">Project Management For Civil Engineering</h1>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-12 mt-5">
-						<!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>				 -->
+						<p class="text-center">A successful construction project relies on a good project management that includes strategies, tactics, and tools for managing the design and construction delivery processes as well as the controlling key factors to ensure a facility that matches the expectations and functions as it is intended.<br>Many of the students want to become Entrepreneur after completing their B.Tech. so, this workshop gives you that opportunity to have a clear idea about how it works.<br> Workshop includes such softwares like Microsoft Project Management, Primavera, Turbo Project and Risky Project.<br>As for the question of what public can take part in this workshop, one of the main advantages of conducting this workshop is that it explores the basic areas of project management, so any student with different discipline can take part in it.</p>				
 					</div>
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 300</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12"></div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="workshop_m_7_f" class="modal">
+	<div id="workshop_m_7" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
 				<div class="row mt-5">
@@ -260,22 +278,25 @@
 				</div>
 				<div class="row">
 					<div class="col-12 mt-5">
-						<!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>				 -->
+						<p class="text-center">Ethical hacking and ethical hacker are terms used to describe hacking performed by a company or individual to help identify potential threats on a computer or network. An ethical hacker attempts to bypass system security and search for any weak points that could be exploited by malicious hackers. This information is then used by the organization to improve the system security, to minimize or eliminate any potential attacks.</p>				
 					</div>
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 500</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12"></div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="workshop_m_8_f" class="modal">
+	<div id="workshop_m_8" class="modal">
 		<div class="modal-content">
 			<div class="container-fluid">
 				<div class="row mt-5">
@@ -286,16 +307,19 @@
 				</div>
 				<div class="row">
 					<div class="col-12 mt-5">
-						<!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>				 -->
+						<p class="text-center">A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree).Blocks hold batches of valid transactions that are hashed and encoded into a Merkle tree. Each block includes the cryptographic hash of the prior block in the blockchain, linking the two. The linked blocks form a chain. This iterative process confirms the integrity of the previous block, all the way back to the original genesis block.</p>				
 					</div>
 				</div>
 				<div class="row mt-5">
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Date And Time</h5> -->
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 300</h5>
 					</div>
 					<div class="col-md-6 col-xs-12 col-sm-12"></div>
 					<div class="col-md-3 col-xs-12 col-sm-12">
-						<!-- <h5 class="text-center">Venue</h5> -->
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
 					</div>
 				</div>
 			</div>
