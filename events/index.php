@@ -39,7 +39,7 @@
                     <a id="ce_1" href="#">Go and Hunt</a><br>
                     <a id="ce_2" href="#">Bro - Code</a><br>
                     <a id="ce_3" href="#">Hard - War</a><br>
-                    <a id="ce_4" href="#">Code Of Throens</a><br>
+                    <a id="ce_4" href="#">Code Of Thrones</a><br>
                     <a id="ce_5" href="#">Algorithm Unlock</a>
                 </p>
                 <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
