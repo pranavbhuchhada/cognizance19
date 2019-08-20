@@ -247,8 +247,8 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Nirmit<br>9913555958</h5>
                         <!-- <h5 class="text-center">name Number</h5> -->
                     </div>
 
@@ -318,9 +318,8 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Darsh<br>9099520770</h5>
                     </div>
 
                 </div>
@@ -883,14 +882,49 @@
                         <p class="text-center">This event is the ultimate test of engineering excellence, team work, strategy and gaming. It is an event wherein manually controlled robots battle each other in the arena. The robot that immobilizes the opponent or knocks the opponent out is declared as the winner.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+                        	One on one matches will be held, winners will move to the next stage and the losers will be eliminated.<br><br>
+                        	Round 2:<br>
+                        	Time and point counting will be declared at the time of the match(it varies with each and every phase).
+                        	<br><br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Machine Specifications</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">1.	The robot can have maximum dimensions of Length: 75 cm, Breadth: 75 cm, Height: 100 cm.<br>
+                        	2.	The machine should not exceed 60 kg and should be more than 
+							30 kg of weight including the weight of pneumatic source/tank. All pneumatic tanks/source and batteries should be on board. Weight or remove controller will not be counted.<br>
+							3.	The robot can be controlled by wired/wireless.  If the robot is controlled wirelessly the robot must have a frequency remote control circuit which can avoid frequency interference with other teams.(Recommended to have 2 frequencies to avoid interference) .<br>
+							4.	If the robot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the robot should be stacked as a single unit. The wires should be properly insulated.  Loose connections or improper wiring may lead to direct disqualification even before the event. The length of wire must be able to cover the full arena.<br>
+							5.	Voltage: Working Voltage must not exceed  24V.<br>
+
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Team Specification</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1.	A team may consist of a maximum of 6 participants, all from the same institute or may be from different institute.<br>
+							2.	The name of the team representative must be given at the time of registration and He/she has to report to the co-ordinators before the competition starts.<br>
+							3.	Every team must have a name which must be unique. Cognizance 2019 reserves the right to reject any Team whose name it deems inappropriate, offensive of conflicting. Organizers must be notified during if a Team’s name has been changed.<br>
                         </p>
                     </div>
                 </div>
@@ -901,13 +935,66 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1.	Any team that is not ready at the time specified will be disqualified from the competition immediately.<br>
+						2.	The machine would be checked for its safety before the competition and would be discarded if found unsafe for other participants and spectators.<br>
+						3.	The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered teams.<br>
+						4.	Any team accidently or try to damage the wiring system of opponent’s robot,will be disqualified.<br>
+						5.	Intentional damage to the arena will lead to disqualification.<br>
+						6.	Violation of any the below rules will lead to disqualification. <br>
+						7.	Jury decision would be final and unvary<br>
+
+                        </p>
                     </div>
-                </div> -->
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Field Specifications</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1.	The field will be a flat,square and rigid platform without any obstacle. <br>
+                        	2.	The dimensions of which will be revealed on the spot.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Criteria for Triumph</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1.	A robot is declared victorious if its opponent is immobilized or out of the arena.<br>
+							2.	A robot will be declared immobile if it cannot display linear motion in a timed period of 10 seconds. A bot with one side of its drivetrain disabled will not be counted out if it can demonstrate some degree of controlled movement. <br>
+							3.	If both robots survive the Two minutes at that point, the robot with the higher  
+							points wins.<br>
+							4.	The winner moves on, the loser is eliminated from the tournament.
+
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">SAFETY RULES</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1.	Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing.<br>
+							2.	If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event.
+
+                        </p>
+                    </div>
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 700</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -935,14 +1022,51 @@
                         </p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+				<div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+                        	The participating robots are allowed to pass through a series of all - terrain tracks. 
+                        	The robot which completes the track within minimum time is taken into consideration for next round.<br><br>
+                        	Round 2:<br>
+                        	The Round 2 will be a knockout round with challenging track which will be disclosed on-spot.
+                        	<br><br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Robot Specifications</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">1. The robot should be manually controlled, using a remote device and can only be operated by a team member.<br>
+                        	2. The robot should be manually controlled, using a remote device and can only be operated by a team member<br>
+                        	3. External controlling device and external power supplies will not be included in the size constraint.<br>
+                        	4. The robot can be powered with maximum 24 V battery.<br>
+                        	5. For wireless communication, it is recommended to keep DUAL FREQUENCY for communication, so that there is no case of electromagnetic interference with another team’s wireless communication. The coordinators shouldn’t be held responsible for any kind of electromagnetic interference in wireless communication.<br>
+                        	6. The robots have to be self-made by the team. Ready-made kits and LEGO kits should not be used to construct the robot.<br>
+                        	7. The robot should not weigh more the 5kg.<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Team Specification</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	<br>1. Any team can participate in Astromech-Aisle, Cognizance 2019. A team may consist of maximum of 4 participants. These participants can be from same or different institutes.
+							<br>2. Team Name: Every team must have a name which must be unique. Event co-ordinators reserves the right to change names of any Team whose name it seems inappropriate, offensive or conflicting. Organizers must be notified during if a Team's name has been changed.
+							<br>3. Team Representative: Each team must specify their Team Representative (Leader) at the time of registration. All important communications between co-ordinator and the registered teams will be done through their Team Representative. The Team representatives must submit valid contact details (phone no., email ID etc.) at the time of registration.
+							<br>(NOTE: During any kind of conversation, registration, communication, mails or submissions the team must identify themselves by their Team ID only provided at the time of registration and not by your team name. Please do not use your team name as your identification in any kind of communication with us. Follow this rule very strictly.)
                         </p>
                     </div>
                 </div>
@@ -953,13 +1077,37 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">1. Teams have to be ready with their robots at the time of event.
+							<br>2. The robot will start from a specified point on the arena and will have to traverse through the entire track consisting of various obstacles with varying surface.
+							<br>3. The race will start at the moment the event coordinator gives a green signal.The time keeper will turn on the timer at the same moment.
+							<br>4. A team can take a maximum of 1 TIMEOUT for not more than 2 min.
+							<br>4. The teams cannot make any major mechanical, technical changes and battery changes to the robot within timeout.
+							<br>6. A team can take 3 HAND TOUCHES. After the HAND TOUCH, the robot will be placed at the last checkpoint.
+							<br>7. One team member is allowed to control the robot while the other team member is allowed inside the arena to assist the movement of the robot by handling the wires and power supply units.
+							<br>8. Skipping a hurdle will incure a penalty in timing.
+							<br>9. Unethical behavior could lead to disqualification. Faculty & coordinators have all the rights to take final decision for any matter during the event.
+
+                        </p>
                     </div>
-                </div> -->
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Certificate Policy</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1. Certificate of Excellence will be given to the top 2 teams.
+							<br>2. Certificates of Participation will be given to all the teams who runs the robot successfully in working condition in first round of the competition.
+							<br>3. The teams which get disqualified due to disobeying any of the competition rules will not be considered for the certificate.
+                        </p>
+                    </div>
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 300</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -985,31 +1133,65 @@
                         <p class="text-center">A robot soccer based event in which the team has to design a wired/wireless robot which will compete on an arena specially designed for robotic soccer match and the team which goals maximum will play further. </p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+                        	In this round, the robot will race against time for their chance to go ahead in the game by passing the hurdles placed along the track till the arena. The faster the better. The team with lesser time will be promoted to next level.
+                        	<br><br>
+                        	Round 2:<br> 
+                        	After the warm up session, let's get to the GAME. This round will definitely test your speed but also your power. It's pretty simple, beat your opponent by scoring 3 goals before they can and get to the final round.
+                        	<br><br>
+                        	Round 3:<br>
+                        	This is the showdown. The best of the best will compete to get the reward. Same rules but difficulty level on the top. Beat your opponent to be the Ultimate Champion.
+                        	<br><br>
                         </p>
                     </div>
                 </div>
                 <div class="row mt-4">
                     <div class="col-12">
-                        <h1 class="text-center">Rules</h1>
+                        <h1 class="text-center">Robot Specifications</h1>
                     </div>
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">1.	The robot should be manually controlled using a remote controller, operated by a team member.
+						<br>2.	The Robot dimensions should not exceed 300*200*200mm (l*b*h) at all times.( External controlling devices and power supplies will not be considered in the size constraint).
+						<br>3.	The robot can be prepared with maximum 24 Volts of battery (Not more than that).
+						<br>4.	The robot should only have V-Shaped (steady) plates for playing soccer (Grippers are not allowed).
+						<br>5.	Weight of robot must be less than 5kgs. (Including V-Shaped plates)
+						<br>6.	For Wireless communication, it is recommended to keep more than one frequencies for communication so that there is no case of electromagnetic interference with another team's wireless communication.
+						<br>7.	Every team has to build their own robot by themselves, i.e. No robot constructed by ready made kits or even LEGO kits is allowed.
+						<br>8.	The coordinators would not be held responsible for any kind of electromagnetic interference in wireless communication. (For wireless robot)
+						<br>9.	CZ'19 will not be held responsible for any type of damage to the robot.<br>
+						Note: No extra weapons or rotors are allowed. The design of the robot should be made to play soccer only.
+						</p>
                     </div>
-                </div> -->
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Team Specifications</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1.	A team can contain a maximum of 4 members. (Participants of same or different institutions can also collaborate).
+							<br>2.	Every team must have a unique name to it.
+							<br>3.	All the important communications between the teams and Congnizance'19 will be done through their team representative.
+							<br>4.	Thus, the team representative must submit their valid contact details (Phone number, email ID, etc.) at the time of registration.
+							<br>5.	CZ'19 reserves all the rights to change names of any team whose name seems to be inappropriate, offensive or conflicting.
+                        </p>
+                    </div>
+                </div>                
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 300</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1037,14 +1219,25 @@
                         <p class="text-center">This event will test your general and technical knowledge in the horizon of electronics and communication engineering and its history. It would also test your ability to work as a team.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1: QUALIFIER BATTLE<br>  
+                        	In this round general knowledge questions would be asked and points would be awarded if answered correctly. If not answered correctly the question would be passed to the next team. Later, teams having minimum points would be eliminated.
+                        	<br><br>
+                        	Round 2: Take your Pick<br>
+                        	In this round teams would be provided with some topics to choose FROM (RELATED TO EC) and questions would be asked from that topic itself. Teams answering max questions would be eligible for the next round.
+                        	<br><br>
+                        	Round 3: Connect It<br>
+                        	Here, we would give you pictorial clues which you have to search in the department and we would ask for connect. If you connect all the pictures correctly you would end up with a meaningful word or sentence (related to EC)
+                        	<br><br>
+                        	Round 4: Buzzer Round<br>
+                        	Technical questions would be asked by the quizmaster and the teams will get a chance to answer according to their buzzer sounds. Team answering maximum questions would win this round.
+                        	<br><br>
                         </p>
                     </div>
                 </div>
@@ -1055,13 +1248,18 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1.	Maximum 2 people in one team.<br>
+							2.	Team members cannot be changed once registered.<br>
+							3.	No extension time limit will be provided.<br>
+							4.	Decisions taken by the judges would be the final ones.
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -1272,14 +1470,51 @@
                         <p class="text-center">The participants have to design a wired/wireless robot that is manually controlled machine and is durable in all the terrain arena like sand, pebbles, obstacles, bumpers, bridges, marbles, grease, inclines, dips, cliffs, ramps, banks, etc.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+                        	The participating robots are allowed to pass through a series of all - terrain tracks. 
+                        	The robot which completes the track within minimum time is taken into consideration for next round.<br><br>
+                        	Round 2:<br>
+                        	The Round 2 will be a knockout round with challenging track which will be disclosed on-spot.
+                        	<br><br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Robot Specifications</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">1. The robot should be manually controlled, using a remote device and can only be operated by a team member.<br>
+                        	2. The robot should be manually controlled, using a remote device and can only be operated by a team member<br>
+                        	3. External controlling device and external power supplies will not be included in the size constraint.<br>
+                        	4. The robot can be powered with maximum 24 V battery.<br>
+                        	5. For wireless communication, it is recommended to keep DUAL FREQUENCY for communication, so that there is no case of electromagnetic interference with another team’s wireless communication. The coordinators shouldn’t be held responsible for any kind of electromagnetic interference in wireless communication.<br>
+                        	6. The robots have to be self-made by the team. Ready-made kits and LEGO kits should not be used to construct the robot.<br>
+                        	7. The robot should not weigh more the 5kg.<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Team Specification</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	<br>1. Any team can participate in Astromech-Aisle, Cognizance 2019. A team may consist of maximum of 4 participants. These participants can be from same or different institutes.
+							<br>2. Team Name: Every team must have a name which must be unique. Event co-ordinators reserves the right to change names of any Team whose name it seems inappropriate, offensive or conflicting. Organizers must be notified during if a Team's name has been changed.
+							<br>3. Team Representative: Each team must specify their Team Representative (Leader) at the time of registration. All important communications between co-ordinator and the registered teams will be done through their Team Representative. The Team representatives must submit valid contact details (phone no., email ID etc.) at the time of registration.
+							<br>(NOTE: During any kind of conversation, registration, communication, mails or submissions the team must identify themselves by their Team ID only provided at the time of registration and not by your team name. Please do not use your team name as your identification in any kind of communication with us. Follow this rule very strictly.)
                         </p>
                     </div>
                 </div>
@@ -1290,9 +1525,33 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">1. Teams have to be ready with their robots at the time of event.
+							<br>2. The robot will start from a specified point on the arena and will have to traverse through the entire track consisting of various obstacles with varying surface.
+							<br>3. The race will start at the moment the event coordinator gives a green signal.The time keeper will turn on the timer at the same moment.
+							<br>4. A team can take a maximum of 1 TIMEOUT for not more than 2 min.
+							<br>4. The teams cannot make any major mechanical, technical changes and battery changes to the robot within timeout.
+							<br>6. A team can take 3 HAND TOUCHES. After the HAND TOUCH, the robot will be placed at the last checkpoint.
+							<br>7. One team member is allowed to control the robot while the other team member is allowed inside the arena to assist the movement of the robot by handling the wires and power supply units.
+							<br>8. Skipping a hurdle will incure a penalty in timing.
+							<br>9. Unethical behavior could lead to disqualification. Faculty & coordinators have all the rights to take final decision for any matter during the event.
+
+                        </p>
                     </div>
-                </div> -->
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class="text-center">Certificate Policy</h1>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-12">
+                        <p class = "text-center">
+                        	1. Certificate of Excellence will be given to the top 2 teams.
+							<br>2. Certificates of Participation will be given to all the teams who runs the robot successfully in working condition in first round of the competition.
+							<br>3. The teams which get disqualified due to disobeying any of the competition rules will not be considered for the certificate.
+                        </p>
+                    </div>
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Registration Fees</h5> -->
@@ -1323,14 +1582,21 @@
                         <p class="text-center">Bob the builder is an event solely based on Construction Material & Methods. There are different rounds to test the knowledge of participants regarding material and equipment with the key elements of analysis, quantity & on the spot problem solving skills .</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+                        	There will be stock of material which are related to civil engineering like cement, aggregate, sand, etc. one participate have to identify the material by feeling of touch and another participate will have to collect material of given values.<br><br>
+                        	Round 2:<br>
+                        	Second round will be general crossword game of material & equipment that related to civil engineering.
+                        	<br><br>
+                        	Round 3:<br>
+                        	The third round will be on the spot problem solving related to civil engineering field.
+                        	<br><br>
                         </p>
                     </div>
                 </div>
@@ -1341,9 +1607,17 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1.	Only pair of two students are allowed as one team.<br>
+							2.	For each round the points are decided accordingly.<br>
+							3.	If there is a situation of TIE, total scores will decide the winner.<br>
+							4.	Use of internet is not allowed for round 1 & 2.<br>
+							5.	Participants are allowed to use the internet only when said by coordinates in the final round.<br>
+							6.	In case of any misbehave or cheating found by any supportive person the team will be disqualified.<br>
+							7.	students are not allowed to use any of the material other than given by event coordinator.<br>
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Registration Fees</h5> -->
@@ -1352,9 +1626,9 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Devang Rathod<br>9712825512</h5>
+                        <h5 class="text-center">Nirali Ranipa<br>8160303901</h5>
                     </div>
                 </div>
             </div>
@@ -1376,14 +1650,22 @@
                         </p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+							In the first round one video will be play and based on the video students have to answer the question of the quiz.
+                        	<br><br>
+                        	Round 2:<br>
+                        	The students will be provided with a drawing sheet and they will have to plan a city on their own an ideal city with road connections and public buildings included on the bases of the plan elimination will be done.
+                        	<br><br>
+                        	Round 3:<br>
+                        	Virtual money will be provided to buy different types of building structure The teams have to design and make the model of a town and the winner will be decided based on the accuracy of town planning. Some requirements of the town will be given by cheats.
+                        	<br><br>
                         </p>
                     </div>
                 </div>
@@ -1394,9 +1676,15 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1.	Minimum three students can participate and maximum four.<br>
+							2.	15 teams will be promoted to round 2<br>
+							3.	10 teams will be promoted to Round 3<br>
+							4.	Judge decision will be final<br>
+							5.	If TIE situation is there then both the teams are allow to proceed for the further round.<br>
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Registration Fees</h5> -->
@@ -1405,9 +1693,9 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Het patel<br>8238366678</h5>
+                        <h5 class="text-center">Suryadeep Chauhan<br>9909440812</h5>
                     </div>
                 </div>
             </div>
@@ -1427,14 +1715,22 @@
                         <p class="text-center">This is one of the most elementary events in the technical field of civil. Participant from 1st year to final year can be a part of this fun-filled technical event to test their knowledge in field of civil.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>
+							The quiz conducted based on an online application call KAHOOT quiz which would be either technical or general. There will be an elimination based on the quiz results and the teams will be selected for the next round by results of quiz.
+                        	<br><br>
+                        	Round 2:<br>
+                        	In the second round they will be playing a game with time limit where a random technical topic will be assigned to them by the spinning wheel or dart game.
+                        	<br><br>
+                        	Round 3:<br>
+                        	This round consists of technical treasure hunt with the help of cards.surprise event elements will be disclosed at the time of event.<br>(all the participants have to play a game which is based on cards in which you have to collect your cards whose topic is given to you and set them in a proper order.)
+                        	<br><br>
                         </p>
                     </div>
                 </div>
@@ -1445,9 +1741,12 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1.	minimum two students can participate and maximum three.<br>
+							2.	If TIE situation is there then both the teams are allow to proceed for the further round.<br>
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Registration Fees</h5> -->
@@ -1456,9 +1755,9 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Jaydeep Makwana<br>9426500725</h5>
+                        <h5 class="text-center">Rani Thakkar<br>7698248994</h5>
                     </div>
                 </div>
             </div>
@@ -1478,14 +1777,15 @@
                         <p class="text-center">The participants will come with their candystick crane structure made according to given specifications and checking of the same will be done.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>Dimension analysis.<br><br>
+                        	Round 2:<br>Load will be applied on the structure and the corresponding failure on the structure will be tested.<br>
                         </p>
                     </div>
                 </div>
@@ -1496,9 +1796,14 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1.	Min. 1, Max.3 students in one team.<br>
+							2.	Dimensions: Reference drawing will be provided to all the participants after registration.<br>
+							3.	Rules for elimination: wrong dimensions, failure of structure on application of load.<br>
+							4.	Judge's decision will be considered final.<br>
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Registration Fees</h5> -->
@@ -1507,9 +1812,9 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Riddhi Vyas<br>7016071767</h5>
+                        <h5 class="text-center">Rutvik Chopda<br>9712102401</h5>
                     </div>
                 </div>
             </div>
@@ -1529,7 +1834,7 @@
                         <p class="text-center">This event deals with the testing of general knowledge by arising questions related to technical prospects of this field. It is further related to history of automobiles, vehicle type and its specification, popular places and automobile companies. The participants taking part in this event can enhance their technical skills in this area.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
@@ -1537,9 +1842,14 @@
                 <div class="row">
                     <div class="col-12">
                         <p class="text-center">
-                            Round 1:<br>  <br><br>
-                            Round 2:<br> <br><br>
-                            Round 3:<br> <br><br>
+                            Round 1: QUALIFIER BATTLE<br>First round will be a written one which contains 50 questions about general terms and
+							there will be a options. In this round time provided to 55 minutes.
+							<br>And bottom last 2 or 3 team will be eliminated from this event in the end of 1st round<br><br>
+                            Round 2: RAPID FIRE<br>Second round will be a 25 questions about up to date technologies in automation. The
+							best perform team will be promoted for next round.<br><br>
+                            Round 3: SURPRISE ROUND<br>Third round will be a surprised round and based on costing of automobile. In this round
+							you have to bring one laptop per team and internet is allowed for last round but we will
+							not provide internet.<br><br>
                         </p>
                     </div>
                 </div>
@@ -1550,20 +1860,26 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1) Team event, 2 member per team.<br>
+							2) Team mate can not be changed for further rounds.<br>
+							3) Judge decision will be final.<br>
+							4) 1 st and 2 nd round no use the mobile phones. Only 3 rd round use mobile phone or laptop.<br>
+							5) No extension time will be provided.<br>
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 200 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Omkar<br>8160340816/9558761345</h5>
+                        <h5 class="text-center">Yash<br>7226864586</h5>
                     </div>
                 </div>
             </div>
@@ -1585,14 +1901,25 @@
                         </p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>  
+							Basic Aptitude test round for 20 min from which shortlisted participants will qualify for the next round.<br><br>
+							Round 2:<br>
+							On the basis of aptitude test, participants are sequenced to round 2 which is a solidworks
+							software round. In which, participant will get a design to draft. In this round, faster participants will be
+							qualify for next round.
+							<br><br>
+							Round 3:<br>
+							This round will be the final round. Only 6 participants will be qualified for this round. This war
+							will include assembly. Different 2D drawings will be provided and from that participants will make a 3D
+							assembly. Top 3 participants will be declared as winner.
+							<br><br>
                         </p>
                     </div>
                 </div>
@@ -1603,13 +1930,16 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1) No team participation is allowed.<br>
+							2) Students are allowed to use their laptops to design the model.
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 250</h5>
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
@@ -1635,14 +1965,30 @@
                         <p class="text-center">As you know the human race has evolved so much that they are travelling into space with the help of ROCKETS. So here’s “SPACE X” to test your skills and to challenge your brilliance.</p>               
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>  
+                        	The first round will be the eliminator round where you have to explain
+							your rocket design and innovative ideas you have used in it.<br><br>
+							Round 2:<br>
+							In this round you will be given a height limit above which you rocket
+							should travel, and the teams who will pass this test will move forward to
+							the next round.<br><br>
+							Round 3:<br>There will be best of three, so every team will get a chance to launch
+							their rocket thrice and the flight time will be noted and the best among
+							the three will be taken into consideration. The teams conceding the
+							highest flight time will be declared the winner.<br><br>
+							<i>How flight time will be calculated?<br>
+							As the rocket is launched the stopwatch will start and as soon as the
+							rocket will touch the ground, time will be stopped and the duration
+							obtained will be the flight time.</i><br>
+							Round 4:<br>In the final round the participants will be given a round target through
+							which they have to pass their rocket.
                         </p>
                     </div>
                 </div>
@@ -1653,13 +1999,18 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">
+                        	1) The rocket can be pneumatic or hydraulic<br>
+							2) Dimensions: (Max height 2 feet, Max width 16 cm)<br>
+							3) The decision given by the respective event coordinator will be
+							the final decision.
+                        </p>
                     </div>
-                </div> -->
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Registration Fees</h5> -->
-                        <!-- <h5 class="text-center">Rs. </h5> -->
+                        <h5 class="text-center">Registration Fees</h5>
+                        <h5 class="text-center">Rs. 150 </h5>
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
@@ -1684,14 +2035,16 @@
                         <p class="text-center">An event of tricycle making which involves racing with rivals. The team with higher points (total) and lesser time will win.</p>                
                     </div>
                 </div>
-                <!-- <div class="row mt-4">
+                <div class="row mt-4">
                     <div class="col-12">
                         <h1 class ="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>  <br><br>Round 2:<br> <br><br>Round 3:<br> <br><br>
+                        <p class="text-center">Round 1:<br>Assembly Round ( 50 points /-)<br><br>
+                        	Round 2:<br>Cost estimation(on paper) and oral presentation (50 points /-)<br><br>
+                        	Round 3:<br>Endurance round and breaking test.<br><br>
                         </p>
                     </div>
                 </div>
@@ -1702,13 +2055,47 @@
                 </div>
                 <div class = "row">
                     <div class="col-12">
-                        <p class = "text-center"></p>
+                        <p class = "text-center">1. Tricycle frame material should be MS (Mild steel ) /GI (Galvanized iron).<br>
+							2. Tricycle dimensions should be in 3*5 feet.<br>
+							3. Tire dimension : 20 inch <br>
+							4. Pipe thickness should be in 1.5 to 3 mm(for fame purpose)<br>
+							5. Pipe c/s shape should be square / circular .<br>
+							6. Glass material is strictly prohibited.<br>
+							7. Tricycle made from scrap material is preferable .<br>
+							8. Break should be there (any kind of break).<br>
+							9. Max 10 members in one group.<br>
+						</p>
                     </div>
-                </div> -->
+                </div>
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h1 class ="text-center">Rounds wise rules</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="text-center">Round 1:<br>team has to assemble whole tricycle in 30 mins. Team whos
+							assemble time is less will win the round. WHOLE TEAM SHOULD BE THERE AT
+							THE TIME OF ASSEMBLY<br><br>
+                        	Round 2:<br>Team has to prepare the whole oral presentation upon the brief
+							explanation of tricycle making, cost estimation should be in hard copy.
+							<br>Maximum cost of tricycle should not exceed than 5000/- RS. (Preferable)<br><br>
+                        	Round 3:<br>
+                        	1. Drive ur tricycle in gang way(track).<br>
+							  2. Track will have obstacles, ur tricycle should pass all the obstacles successfully.<br>
+							  3. Stopping the tricycle with you’re legs(or any kind of body part) is strictly
+							prohibited.<br>
+							  4. In break test you’re tricycle should stop in between to mention points.<br>
+							  5. Additional push to the tricycle is not allowed (if this will happen team will be
+							disqualified).<br>
+                        	<br><br>
+                        </p>
+                    </div>
+                </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                         <!-- <h5 class="text-center">Registration Fees</h5> -->
-                         <!-- <h5 class="text-center">Rs. </h5> -->
+                         <h5 class="text-center">Registration Fees</h5>
+                         <h5 class="text-center">Rs. 3000 per team</h5>
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
