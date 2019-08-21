@@ -5,8 +5,33 @@
 }
 
 body {
-    background: #f1f1f1;
+    background: black;
     font-family: sans-serif
+}
+
+@font-face {
+    font-family: nidsans;
+    src:url("../assets/fonts/nidsans-webfont.ttf");
+}
+
+.heading>h2 {
+    font-family: nidsans;
+    font-size: 3.5vw;
+    color: #f7bd02;
+    text-shadow: 3px 3px #555;
+}
+
+.heading:hover .heading-underline {
+    transform: scaleX(1);
+}
+
+.heading-underline {
+    width: 10vw;
+    height: 5px;
+    background-color: #f7bd02;
+    margin: 15px auto 50px auto;
+    transform: scaleX(0.7);
+    transition: transform 0.5s;
 }
 
 .col-md-4 {
