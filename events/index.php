@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146107688-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-146107688-1');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -49,7 +58,7 @@
                 <img src="../assets/sacredgames_upper.png" class="img-fluid sacred">
                 <p class="event-panel-heading pt-3">
                     <a id="it_1" href="#">Code Runner</a><br>
-                    <a id="it_2" href="#">Tech Rodies</a><br>
+                    <a id="it_2" href="#">Tech Roadies</a><br>
                     <a id="it_3" href="#">Connection Match</a><br>
                     <a id="it_4" href="#">Clash Riddle</a><br>
                     <a id="it_5" href="#">Subterfuge</a><br>                 
@@ -72,7 +81,7 @@
                 <p class="event-panel-heading pt-3">                    
                     <a id="ee_1" href="#">Sacred Games</a><br>
                     <a id="ee_2" href="#">Electrobuzz</a><br>
-                    <a id="ee_3" href="#">Relm of Circuits</a><br>
+                    <a id="ee_3" href="#">INFINITY WAR</a><br>
                     <a id="ee_4" href="#">AstroMech - Aisle</a><br>
                 </p>
                 <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
@@ -111,10 +120,11 @@
     <?php include '../navsidebar.php'; ?>
     <div id="event_ce_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Go And Hunt</h1>
                     </div>
                 </div>
@@ -125,7 +135,7 @@
                 </div>
                 <div class="row mt-4">
                     <div class="col-12">
-                        <h1 class="text-center">Rules</h1>
+                        <h1 class="text-center">Rounds</h1>
                     </div>
                 </div>
                 <div class="row">
@@ -137,27 +147,16 @@
                         Once the team manages to crack the clue of the location, they’ll
                         head out to that particular place. From there, our volunteers
                         would give you clues or things that would lead you to the next
-                        location.
-                        The assumed time duration for this round is 2 hours.<br><br>
+                        location.<br><br>
 
                         Round 2: <br>The second round would be a technical quiz. The
-                        selected teams from round 1 would be given a quiz that would
-                        contain basic questions related to C/C++ programming
-                        languages or even a simple technical quiz. It could be both!
-                        The time duration for this round is 1 hour.<br><br>
+                        quailified teams from round 1 would be given a quiz that would
+                        contain basic questions of C/C++ programming
+                        languages or even a simple technical quiz. It could be both!<br><br>
 
-                        Round 3: <br>Here comes the final round. This round will help
-                        to declare who is the winner. Here, each selected team would
+                        Round 3: <br>This is a final round declareing the winner. Here, each selected team would
                         be given a code to solve. The output of that code would contain
-                        the lab number, PC number within that particular lab and a
-                        secret code. Once on that PC, the team members would have to
-                        open a password protected folder using the secret code given
-                        from the output of the code. The folder opened would contain
-                        a riddle or a puzzle that has to be solved. The solution of the
-                        riddle or puzzle would be the secret code to the next folder. In
-                        this manner, whichever team manages to open all the folders
-                        first, will be declared the Winner of Hunt the Code event
-                        CZ’19!</p>
+                        the clue which will lead you forward. The pariticipant who will be able to accomplish all the task will be declared as the winner!!</p>
                     </div>
                 </div>
                 <div class="row mt-4">
@@ -168,14 +167,11 @@
                 <div class = "row">
                     <div class="col-12">
                         <p class = "text-center">1. There must be two participants in each team<br>
-                            2. 4-5 clues will be given at different locations. Only the first<br>
-                            20-25 teams will qualify for round <br>
-                            3. Use of technical gadgets to solve the code or quiz is strictly
+                            2. Only the first 20-25 teams will qualify for round next round.<br>
+                            3. Use of electronic gadgets to solve the code or quiz is strictly
                             not allowed. Team will be disqualified if found doing so.<br>
-                            4. Round 2 quiz would be pen-paper based.<br>
-                            5. Only first 5 teams who scores highest will qualify for last
-                            round.<br>
-                            6. In case if two teams scores the same then the time factor
+                            4. Only 5 teams who scores highest will qualify for last round.<br>
+                            5. In case if two teams scores the same then the time factor
                             would be considered which will be noted while submitting the
                             quiz.</p>
                     </div>
@@ -183,7 +179,7 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 150</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -198,10 +194,11 @@
     </div>
     <div id="event_ce_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Bro - Code</h1>
                     </div>
                 </div>
@@ -219,18 +216,14 @@
                     <div class="col-12">
                         <p class="text-center">Round 1:<br>Both the partner will be given some question and one
                             partner will answer all the question (tech, non tech and
-                            aptitude) while the other partner will have to guess what their
-                            partner cannot guess correctly. They will be awarded marks
+                            aptitude) while the other partner will have to guess which answer were incorrectly done by his partner. They will be awarded marks
                             based on same. 50% teams will be eliminated here.<br><br>
-                            Round 2:<br>“THE HEADS UP ROUND” ... One of the partner
+                            Round 2:<br>“THE HEADS UP ROUND” - One of the partner
                             will be given logo which they have to keep on their heads
                             without seeing. Then other partner will explain the logo
                             without using keywords related to it.<br><br>
-                            Round 3:<br> “FINDING FENNY”... Each participant will have
-                            codes equal to number of participants in last round and a clue
-                            specific where there partner is ... they have to crack the hint ..
-                            And get the output of code for the place they think their partner
-                            is... the one to reach their partner first will be winner.
+                            Round 3:<br>“FINDING FENNY” - one partner would be hidden at a specific location in the campus
+                            , the other partner would be given a code/clue to find out the location of their partner. After they meet two individual questions will be given to them respectiviely but only one pc will be provided to get the output of the code.
                         </p>
                     </div>
                 </div>
@@ -242,24 +235,21 @@
                 <div class = "row">
                     <div class="col-12">
                         <p class = "text-center">1. Students have to participate in the team of 2.<br>
-                            2. In case of tie, they have to answer the question based on<br>
-                            partners and the team with maximum match will be
-                            winner.<br>
-                            3. The place for finding would be according to marks scored
-                            in first and second round.</p>
+                            2. In case of tie, time factor will be considered.<br>
+                            3. Electronic gadgets are not supposed to use until permission is given.</p>
                     </div>
                 </div>
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 150</h5>
+                        <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Contact</h5>
-                        <h5 class="text-center">Nirmit<br>9913555958</h5>
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Nirmit Patel<br>9913555958</h5>
+                        <h5 class="text-center">Utsav Patel<br>6355011050</h5>
                     </div>
 
                 </div>
@@ -268,10 +258,11 @@
     </div>
     <div id="event_ce_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Hard War</h1>
                     </div>
                 </div>
@@ -289,21 +280,12 @@
                     <div class="col-12">
                         <p class="text-center">Round 1:<br>This would be buzzer round. Participants will be shown photo
                         of 5 hardware. Teams will be divided in batches as per entries.
-                        Photos will be as per difficulty level and so will be marks.
+                        marks would be given according to the difficulty level.
                         Top 30% team from each batch would make to next round.<br><br>
-                        Round 2:<br>All the team members will be allowed in room full of
-                        hardware then after certain time (2-3 minutes), they will be
-                        outside and then they will have to note down everything they
-                        remember. Top 7-10 teams will make it to final round.(The
-                        teams will be awarded by number of things they
-                        remembered*10 marks.)<br><br>
+                        Round 2:<br>All the team members will be taken in room full of
+                        hardware for certain period of time, then after they will have to note down the hardware they have seen on the basis of their memory. the top most teams having record of highest number of hardwares will qualify for the next round.<br><br>
                         Round 3:<br>
-                        Participants will be given “QWERTY” keyboard without
-                        keys. They will have to assemble the keyboard. Based on
-                        marks of above round they will have access to hints. Time
-                        will be judging criteria. In case of tie marks will also get
-                        considered.
-                        <br><br>
+                        this round will test your knowledge of hardware.<br><br>
                         </p>
                     </div>
                 </div>
@@ -315,7 +297,7 @@
                 <div class = "row">
                     <div class="col-12">
                         <p class = "text-center">
-                            1.There will be 2 students per team in every round.<br>
+                            1. There will be 2 students per team in every round.<br>
                             2. In case of tie in round 2, the marks of first round will be considered.
                         </p>
                     </div>
@@ -323,7 +305,7 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 100</h5>
+                        <h5 class="text-center">Rs. 100 per team</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
@@ -338,10 +320,11 @@
     </div>
     <div id="event_ce_4" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Code Of Thrones</h1>
                     </div>
                 </div>
@@ -365,11 +348,7 @@
                         to decode the words from the cheats and derive the problem statement. Top
                         50% participants from here move to next round!<br><br>
                         Round 2:<br>
-                        In second round the participants need to quiz on kahoot which will be
-                        based on famous company logos, complete the statement and various
-                        questions on general knowledge. This will help to improve the overall
-                        knowledge of the participants as well. This quiz will consist of 25
-                        questions. Top 40% from this round will advance to the final round.
+                        In second round a quiz will be taken. Top 40% teams will qualify for the next round.
                         <br><br>
                         Round 3:<br>
                         In final round the participants will pick the cheats and will compete
@@ -440,10 +419,11 @@
     </div>
     <div id="event_ce_5" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Algorithm Unlock</h1>
                     </div>
                 </div>
@@ -515,10 +495,11 @@
     </div>
     <div id="event_it_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Code Runner</h1>
                     </div>
                 </div>
@@ -577,10 +558,11 @@
     </div>
     <div id="event_it_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Tech Roadies</h1>
                     </div>
                 </div>
@@ -645,14 +627,14 @@
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
-                        <h5 class="text-center">Rs. 150 per team</h5>
+                        <h5 class="text-center">Rs. 100 per participant</h5>
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Contact</h5>
                         <h5 class="text-center">Anushree Shah<br>7990272963</h5>
-                        <h5 class="text-center">Pranav<br>9426893981</h5>
+                        <h5 class="text-center">Aneri Adani<br>832023002</h5>
                     </div>
 
                 </div>
@@ -661,10 +643,11 @@
     </div>
     <div id="event_it_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Connection Match</h1>
                     </div>
                 </div>
@@ -729,10 +712,11 @@
     </div>
     <div id="event_it_4" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Clash Riddle</h1>
                     </div>
                 </div>
@@ -806,10 +790,11 @@
     </div>
     <div id="event_it_5" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Subterfuge</h1>
                     </div>
                 </div>
@@ -840,24 +825,32 @@
                 <div class = "row">
                     <div class="col-12">
                         <p class = "text-center">
-                            This is a team event and the team size has been
-                            restricted to 2 members per team.<br>The qualification percentage in all three rounds is
+                            1. This is a team event and the team size has been
+                            restricted to 2 members per team.<br>
+                            2. The qualification percentage in all three rounds is
                             50% i.e., if 40 teams in-total participate for the event,
                             20 teams get qualified for the buzzer round and only
-                            10 teams get qualified as finalists.<br>The first round is of 90 minutes involving two sets of
+                            10 teams get qualified as finalists.<br>
+                            3. The first round is of 90 minutes involving two sets of
                             45 minutes Quiz time. It is to be conducted on a
-                            reputed online platform.<br>In the 2
+                            reputed online platform.<br>
+                            4. In the 2
 
                             nd round: the Buzzer round, if and when the
                             team which answers first, answers wrong,
                             opportunities will galore for the team which pressed
-                            the buzzer a little-too late and came-in second.<br>As for the final round: the Relay round, each team
+                            the buzzer a little-too late and came-in second.<br>
+                            4. As for the final round: the Relay round, each team
                             member will be allowed to code for only 15 minutes.
                             After the allotted time gets over, next teammate will
                             be replacing current one and he/she should continue
-                            the chain.<br>Each solution gets tested on test cases defined by us.<br>Top 3 teams from the final leaderboard gets deemed
-                            eligible for intimidating prizes.<br>A tiebreaker round will be conducted in case of tie.
-                            (or the code with minimum errors will get selected)<br>There will be a provision of break in-between all
+                            the chain.<br>
+                            5. Each solution gets tested on test cases defined by us.<br>
+                            6. Top 3 teams from the final leaderboard gets deemed
+                            eligible for intimidating prizes.<br>
+                            7. A tiebreaker round will be conducted in case of tie.
+                            (or the code with minimum errors will get selected)<br>
+                            8. There will be a provision of break in-between all
                             three rounds.
                         </p>
                     </div>
@@ -880,10 +873,11 @@
     </div>
     <div id="event_it_6" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Mission Hackathon</h1>
                     </div>
                 </div>
@@ -954,10 +948,11 @@
     </div>    
     <div id="event_ec_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Final Combact</h1>
                     </div>
                 </div>
@@ -1092,10 +1087,11 @@
     </div>
     <div id="event_ec_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Astromech - Aisle</h1>
                     </div>
                 </div>
@@ -1204,10 +1200,11 @@
     </div>
     <div id="event_ec_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">The Golden Snitch</h1>
                     </div>
                 </div>
@@ -1290,10 +1287,11 @@
     </div>
     <div id="event_ec_4" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Quizpicable Me</h1>
                     </div>
                 </div>
@@ -1357,10 +1355,11 @@
     </div>
     <div id="event_ee_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Sacred Games</h1>
                     </div>
                 </div>
@@ -1434,10 +1433,11 @@
     </div>
     <div id="event_ee_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Electrobuzz</h1>
                     </div>
                 </div>
@@ -1497,10 +1497,11 @@
     </div>
     <div id="event_ee_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">INFINITY WAR</h1>
                     </div>
                 </div>
@@ -1560,10 +1561,11 @@
     </div>
     <div id="event_ee_4" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">AstroMech - Aisle</h1>
                     </div>
                 </div>
@@ -1672,10 +1674,11 @@
     </div>
     <div id="event_cl_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Bob the Builder</h1>
                     </div>
                 </div>
@@ -1738,10 +1741,11 @@
     </div>
     <div id="event_cl_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Age Of Town</h1>
                     </div>
                 </div>
@@ -1805,10 +1809,11 @@
     </div>
     <div id="event_cl_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">House Of Cards</h1>
                     </div>
                 </div>
@@ -1867,10 +1872,11 @@
     </div>
     <div id="event_cl_4" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Civil War</h1>
                     </div>
                 </div>
@@ -1924,10 +1930,11 @@
     </div>
     <div id="event_me_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Auto Master</h1>
                     </div>
                 </div>
@@ -1980,7 +1987,7 @@
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Contact</h5>
-                        <h5 class="text-center">Omkar<br>8160340816/9558761345</h5>
+                        <h5 class="text-center">Omkar<br>8160340816 / 9558761345</h5>
                         <h5 class="text-center">Yash<br>7226864586</h5>
                     </div>
                 </div>
@@ -1989,10 +1996,11 @@
     </div>
     <div id="event_me_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Solid War</h1>
                     </div>
                 </div>
@@ -2055,10 +2063,11 @@
     </div>
     <div id="event_me_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Space X</h1>
                     </div>
                 </div>
@@ -2125,10 +2134,11 @@
     </div>
     <div id="event_me_4" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Fast & Furious</h1>
                     </div>
                 </div>
@@ -2220,10 +2230,11 @@
     </div>
     <div id="event_nt_1" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Back To Box Office</h1>
                     </div>
                 </div>
@@ -2277,10 +2288,11 @@
     </div>
     <div id="event_nt_2" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Roadies</h1>
                     </div>
                 </div>
@@ -2344,10 +2356,11 @@
     </div>
     <div id="event_nt_3" class="modal">
         <div class="modal-content">
+            <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
-                <div class="row mt-5">
+                <div class="row">
                     <div class="col-12">
-                        <span class="pull-right"><a href="#" class="close"></a></span>
+                        <!-- <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span> -->
                         <h1 class="text-center">Reach the Endgame</h1>
                     </div>
                 </div>
