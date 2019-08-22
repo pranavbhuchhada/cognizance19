@@ -12,6 +12,7 @@
     <a href="/cognizance19/attraction/workshops.php" onclick="closeNav();">Workshops</a>
     <a href="javascript:alert('Coming Soon..');" onclick="closeNav();">Guest Lectures</a>
     <a href="javascript:alert('Coming Soon..');" onclick="closeNav();">Pro Night</a>
+    <a href="/cognizance19/gallery/" onclick="closeNav();">Gallery</a>
     <a href="/cognizance19/contact-us/" onclick="closeNav();">Contact Us</a>
     <a href="javascript:alert('Coming Soon..');" onclick="closeNav();">Sponsors</a>
     <a href="javascript:alert('Coming Soon..');" onclick="closeNav();">Accomodation</a>

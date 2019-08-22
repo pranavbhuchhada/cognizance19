@@ -6,19 +6,22 @@
 
 body {
     background: black;
+    background-image: url("../assets/gallerybg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     font-family: sans-serif
 }
 
 @font-face {
-    font-family: nidsans;
-    src:url("../assets/fonts/nidsans-webfont.ttf");
+    font-family: punisher;
+    src: url("../assets/fonts/punisher.ttf");
 }
 
 .heading>h2 {
-    font-family: nidsans;
-    font-size: 3.5vw;
-    color: #f7bd02;
-    text-shadow: 3px 3px #555;
+    font-family: punisher;
+    font-size: 8vw;
+    color: #a60000;
 }
 
 .heading:hover .heading-underline {
@@ -28,7 +31,7 @@ body {
 .heading-underline {
     width: 10vw;
     height: 5px;
-    background-color: #f7bd02;
+    background-color: #910000;
     margin: 15px auto 50px auto;
     transform: scaleX(0.7);
     transition: transform 0.5s;
@@ -51,7 +54,7 @@ body {
 
 .card:hover {
     transform: scale(1.05);
-    box-shadow: 0px 0px 20px #f7bd02;
+    box-shadow: 0px 0px 20px #a60000;
 }
 
 @media screen and (max-width: 767px) {
@@ -62,18 +65,10 @@ body {
     }
 
     .heading>h2 {
-        font-size: 8vw;
+        font-size: 16vw;
     }
 
     .heading-underline {
         width: 30vw;
-    }
-
-    .larger-card .col-md-4:nth-child(2) {
-        top: 14%;
-    }
-
-    .larger-height .col-md-4:first-child {
-        margin-top: 14%;
     }
 }
