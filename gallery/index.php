@@ -21,45 +21,22 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/park.jpg">
-                            <img data-src="images/park.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img1.jpg">
+                            <img data-src="images/img1.jpg" alt="img1" class="card-img-top">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/benches.jpg">
-                            <img data-src="images/benches.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img2.jpg">
+                            <img data-src="images/img2.jpg" alt="img2" class="card-img-top">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/bridge.jpg">
-                            <img data-src="images/bridge.jpg" alt="Park" class="card-img-top">
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card">
-                        <a class="lightbox" href="images/coast.jpg">
-                            <img data-src="images/coast.jpg" alt="Park" class="card-img-top">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card">
-                        <a class="lightbox" href="images/rails.jpg">
-                            <img data-src="images/rails.jpg" alt="Park" class="card-img-top">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card">
-                        <a class="lightbox" href="images/rocks.jpg">
-                            <img data-src="images/rocks.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img3.jpg">
+                            <img data-src="images/img3.jpg" alt="img3" class="card-img-top">
                         </a>
                     </div>
                 </div>
@@ -67,22 +44,22 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/park.jpg">
-                            <img data-src="images/park.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img4.jpg">
+                            <img data-src="images/img4.jpg" alt="img4" class="card-img-top">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/benches.jpg">
-                            <img data-src="images/benches.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img5.jpg">
+                            <img data-src="images/img5.jpg" alt="img5" class="card-img-top">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/bridge.jpg">
-                            <img data-src="images/bridge.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img6.jpg">
+                            <img data-src="images/img6.jpg" alt="img6" class="card-img-top">
                         </a>
                     </div>
                 </div>
@@ -90,22 +67,91 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/coast.jpg">
-                            <img data-src="images/coast.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img7.jpg">
+                            <img data-src="images/img7.jpg" alt="img7" class="card-img-top">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/rails.jpg">
-                            <img data-src="images/rails.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img8.jpg">
+                            <img data-src="images/img8.jpg" alt="img8" class="card-img-top">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <a class="lightbox" href="images/rocks.jpg">
-                            <img data-src="images/rocks.jpg" alt="Park" class="card-img-top">
+                        <a class="lightbox" href="images/img9.jpg">
+                            <img data-src="images/img9.jpg" alt="img9" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <a class="lightbox" href="images/img10.jpg">
+                            <img data-src="images/img10.jpg" alt="img10" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <a class="lightbox" href="images/img12.jpg">
+                            <img data-src="images/img12.jpg" alt="img12" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <a class="lightbox" href="images/img11.jpg">
+                            <img data-src="images/img11.jpg" alt="img11" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mb-0">
+                    <div class="card">
+                        <a class="lightbox" href="images/img13.jpg">
+                            <img data-src="images/img13.jpg" alt="img13" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-0 larger-card">
+                    <div class="card" style="top: -14%;">
+                        <a class="lightbox" href="images/img15.jpg">
+                            <img data-src="images/img15.jpg" alt="img15" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-0">
+                    <div class="card">
+                        <a class="lightbox" href="images/img14.jpg">
+                            <img data-src="images/img14.jpg" alt="img14" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row larger-height">
+                <div class="col-md-4">
+                    <div class="card" style="top: -9%;">
+                        <a class="lightbox" href="images/img16.jpg">
+                            <img data-src="images/img16.jpg" alt="img16" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="top: -9%;">
+                        <a class="lightbox" href="images/img17.jpg">
+                            <img data-src="images/img17.jpg" alt="img17" class="card-img-top">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="top: -9%;">
+                        <a class="lightbox" href="images/img18.jpg">
+                            <img data-src="images/img18.jpg" alt="img18" class="card-img-top">
                         </a>
                     </div>
                 </div>
