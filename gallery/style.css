@@ -57,6 +57,14 @@ body {
     box-shadow: 0px 0px 20px #a60000;
 }
 
+.side-card {
+    top: 20%;
+}
+
+.middle-card {
+    top: 24%;
+}
+
 @media screen and (max-width: 767px) {
     .card {
         margin: 0 auto;
@@ -72,11 +80,11 @@ body {
         width: 30vw;
     }
 
-    .larger-card .col-md-4:nth-child(2) {
-        top: 14%;
+    .side-card {
+        top: 0%;
     }
 
-    .larger-height .col-md-4:first-child {
-        margin-top: 14%;
+    .middle-card {
+        top: 0%;
     }
 }
