@@ -71,4 +71,12 @@ body {
     .heading-underline {
         width: 30vw;
     }
+
+    .larger-card .col-md-4:nth-child(2) {
+        top: 14%;
+    }
+
+    .larger-height .col-md-4:first-child {
+        margin-top: 14%;
+    }
 }
