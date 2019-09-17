@@ -60,7 +60,9 @@ body{
 #workshop_8{
 	background-image: url("../assets/blockchain_logo.jpg");
 }
-
+#workshop_9{
+	background-image: url("../assets/microsoft.png");
+}
 .workshop-card{
 	min-height: 200px;
 	margin: 3vw;

@@ -79,7 +79,6 @@
             <div id="section_event_4" class="hide">
                 <img src="../assets/sacredgames_upper.png" class="img-fluid sacred">
                 <p class="event-panel-heading pt-3">                    
-                    <a id="ee_1" href="#">Sacred Games</a><br>
                     <a id="ee_2" href="#">Electrobuzz</a><br>
                     <a id="ee_3" href="#">INFINITY WAR</a><br>
                     <a id="ee_4" href="#">AstroMech - Aisle</a><br>
@@ -112,6 +111,7 @@
                     <a id="nt_1" href="#">Back To Box Office</a><br>
                     <a id="nt_2" href="#">Rodies</a><br>
                     <a id="nt_3" href="#">Reach The Endgame</a><br>
+                    <a id="nt_4" href="#">Sacred Games</a><br>
                 </p>
                 <img src="../assets/sacredgames_lower.png" class="img-fluid sacred">
             </div>
@@ -204,7 +204,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 mt-5">
-                        <p class="text-center">This event is a fun game of compatibility while brushing up your technical skills. First round would be the quiz where one partner will guess the answers that their partner cannot guess correctly. The next round would be heads up challenge while the last round would be hunting the partner with the help of clue and code.</p>                
+                        <p class="text-center">This event is a fun game of compatibility while brushing up your technical skills. First round would be the quiz where one of the partners will guess the answers that their partner cannot guess correctly. The next round would be heads up challenge while the last round would be hunting the partner with the help of clue and code.</p>                
                     </div>
                 </div>
                 <div class="row mt-4">
@@ -217,13 +217,13 @@
                         <p class="text-center">Round 1:<br>Both the partner will be given some question and one
                             partner will answer all the question (tech, non tech and
                             aptitude) while the other partner will have to guess which answer were incorrectly done by his partner. They will be awarded marks
-                            based on same. 50% teams will be eliminated here.<br><br>
+                            based on same. 50% of the teams will be eliminated here.<br><br>
                             Round 2:<br>“THE HEADS UP ROUND” - One of the partner
-                            will be given logo which they have to keep on their heads
+                            will be given a logo which they have to keep on their heads
                             without seeing. Then other partner will explain the logo
                             without using keywords related to it.<br><br>
                             Round 3:<br>“FINDING FENNY” - one partner would be hidden at a specific location in the campus
-                            , the other partner would be given a code/clue to find out the location of their partner. After they meet two individual questions will be given to them respectiviely but only one pc will be provided to get the output of the code.
+                            , the other partner would be given a code/clue to find out the specific location where their partner is. After they meet two individual questions will be given to them respectiviely but only one pc will be provided to get the output of the code.
                         </p>
                     </div>
                 </div>
@@ -278,10 +278,10 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>This would be buzzer round. Participants will be shown photo
-                        of 5 hardware. Teams will be divided in batches as per entries.
+                        <p class="text-center">Round 1:<br>This would be buzzer round. Participants will be shown photos
+                        of 5 hardware components. Teams will be divided in batches as per entries.
                         marks would be given according to the difficulty level.
-                        Top 30% team from each batch would make to next round.<br><br>
+                        Top 30% team from each batch would make it to next round.<br><br>
                         Round 2:<br>All the team members will be taken in room full of
                         hardware for certain period of time, then after they will have to note down the hardware they have seen on the basis of their memory. the top most teams having record of highest number of hardwares will qualify for the next round.<br><br>
                         Round 3:<br>
@@ -340,18 +340,18 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>In first round the participants will be given 3 sets, each of 4 cheats which would
+                        <p class="text-center">Round 1:<br>In first round the participants will be given 3 sets, each of 4 chits which would
                         consist of puzzles, the participants need to decode the puzzle to get the string
                         of words( words may be either in Hindi or English).After which the
                         participants have to think about the problem statement using the 4 words
-                        decoded from the given cheats. Similarly, for the remaining two sets they have
-                        to decode the words from the cheats and derive the problem statement. Top
+                        decoded from the given chits. Similarly, for the remaining two sets they have
+                        to decode the words from the chits and derive the problem statement. Top
                         50% participants from here move to next round!<br><br>
                         Round 2:<br>
                         In second round a quiz will be taken. Top 40% teams will qualify for the next round.
                         <br><br>
                         Round 3:<br>
-                        In final round the participants will pick the cheats and will compete
+                        In final round the participants will pick the chits and will compete
                         one on one with the other team in technical quiz. There will be 5 sets
                         of question paper for the quiz. The team having higher points than the
                         other will proceed further. After which all the participants will be
@@ -375,7 +375,7 @@
                             unsuccessful attempt of decoding the problem statement.
                             The team will be given maximum 3 attempts to decode
                             the problem statement and after which they will be given
-                            the problem statement. Likewise, for remaining cheats
+                            the problem statement. Likewise, for remaining chits
                             also. The team can solve maximum 3 codes during this
                             round.<br>
                             4. The team will be awarded +50 points on successful
@@ -439,12 +439,11 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1:<br>
-                        There will be only one round of 3 hours in which team members
-                        (team of exact 2 members) have to solve the coding problems.  <br><br>
-                        Round 2:<br>Also, they need to solve a given puzzle after every 30 minutes to
+                        <p class="text-center">
+                        There will be only 1 round of 3 hours in which team members
+                        (team of exact 2 members) have to solve the coding problems.<br>Also, they need to solve a given puzzle after every 30 minutes to
                         get the new password which will be required to unlock the
-                        screen.<br><br>Round 3:<br>
+                        screen.<br>
                         If team will not able to solve puzzle in 15 minutes then 15
                         points will be deducted from their total points and then screen
                         will be unlocked for them to resume the coding.
@@ -740,7 +739,7 @@
                             next round.<br><br>
                             Round 2:<br>
                             Round is based on basic syntax of c and cpp.
-                            Participants will we given a bit of code from which they have
+                            Participants will be given a bit of code from which they have
                             to find maximum number of errors in given time. And 20
                             students who succeed in doing so will go to next round.
                             <br><br>
@@ -1353,7 +1352,7 @@
             </div>
         </div>
     </div>
-    <div id="event_ee_1" class="modal">
+    <div id="event_nt_4" class="modal">
         <div class="modal-content">
             <span class="pull-right" style="position: sticky;top: 0;right: 0;z-index: 3;"><a href="#" class="close"></a></span>
             <div class="container-fluid">
@@ -1375,16 +1374,16 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center">Round 1: Find the ball<br>All the s tudents will be given the clues with the help of which they will have to find the ball of the same color written in clue.<br><br>
+                        <p class="text-center">Round 1: Find the ball<br>All the students will be given the clues with the help of which they will have to find the ball of the same color written in clue.<br><br>
                             Round 2: Bite the bun<br> 
-                            The hands of each students will be tied up by a rope and they will have to bite the bun hanging on the ceiling with their mouth. Further after reaching the final line, the students will have to cross the barrel round where they have to cross various barrels, hurdles and complete the task.
+                            The hands of each students will be tied up by a rope and they will have to bite the bun hanging on the ceiling with their mouth. Further after reaching the final line, the students will be taken to barrel round where they have to cross various barrels, hurdles and complete the task.
                             <br><br>
                             Round 3: Blind Money<br>
                             The participants will be in pairs and have to collect points/money. One of the
                             participants will be blind - folded and the other one will instruct the partner to 
                             follow the path and collect the objects. The team with the maximum points/money will be moving forward.
                             <br><br>
-                            Round 4: Treasurehunt<br>
+                            Round 4: Treasure hunt<br>
                             The participants will be given clues and have to solve each of them to move 
                             forward. The teams which reaches early at the final destination will be moving 
                             forward.
@@ -1408,7 +1407,7 @@
                         <p class = "text-center">1) After all round participants will be eliminated.<br>
                         2) The decision of the jury will be final, no argument will be tolerated.<br>
                         3) No violence with jury or with other participants will be tolerated.<br>
-                        4) If any participants is found doing any misbehave/mischief then he/she will be
+                        4) If any participant is found doing any misbehave/mischief then he/she will be
                         disqualified at the same time.<br>
                         5) The participants should play fair game.<br>
                         6) Organization will not be responsible for any injuries ( First Aid kit will be available ).<br>
@@ -1423,9 +1422,9 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Kuntal Patel<br>9099902752</h5>
+                        <h5 class="text-center">Vaibhav Singh<br>7600063818</h5>
                     </div>
                 </div>
             </div>
@@ -1464,12 +1463,11 @@
                             based game . People having the knowledge of logic gates will grab the opportunity to play on the
                             next round.<br><br>
                             Round 3:<br>
-                            The one who knows application of their knowledge of electrical will be
-                            the winner.<br><br>
+                            Your knowledge regarding electrical will be tested &amp; winnner will be chosen.<br><br>
                         </p>
                     </div>
                 </div>
-                <div class="row mt-4">
+                <!-- <div class="row mt-4">
                     <div class="col-12">
                         <h1 class="text-center">Rules</h1>
                     </div>
@@ -1478,7 +1476,7 @@
                     <div class="col-12">
                         <p class = "text-center"></p>
                     </div>
-                </div>
+                </div> -->
                 <div class="row mt-5">
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
@@ -1487,9 +1485,9 @@
                     <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Akash Patel<br>9106666247</h5>
+                        <h5 class="text-center">Shivang Panchal<br>9033816792</h5>
                     </div>
                 </div>
             </div>
@@ -1518,7 +1516,7 @@
                 <div class="row">
                     <div class="col-12">
                         <p class="text-center">Round 1: Collect the infinity stones<br>
-                            All the participants will be distributed in a group of 50 i.e. there will be 4 slots. Each slot will have to collect infinity balls. On basis of the selection will be told to them at the time of event. From each slot 25 participants will be selected.<br><br>
+                            All the participants will be distributed in a group of 50 i.e. there will be 4 slots. Each slot will have to collect infinity balls. On basis of the selection criteria will be told to them at the time of event. From each slot 25 participants will be selected.<br><br>
                             Round 2: Welcome to Titan<br>The hands of each participant will be tied up by a rope and they will have to grab the packets hanging on the ceiling with their mouth. Further after reaching the final line, the participants will have to cross the barrel round where they have to cross various barrels, hurdles and complete the task. <br><br>
                             Round 3: Grab the Storm Breaker<br>
                             The participants will be in pairs and have to collect points/money. One of the participants will be blindfolded and the other one will instruct the partner to follow the path and collect the objects. The team with the maximum points/money will be moving forward.
@@ -1661,13 +1659,13 @@
                         <h5 class="text-center">Registration Fees</h5>
                         <h5 class="text-center">Rs. 300 per team</h5>
                     </div>
-                </div>
-                <div class="col-md-6 col-xs-12 col-sm-12">
-                </div>
-                <div class="col-md-3 col-xs-12 col-sm-12">
-                    <!-- <h5 class="text-center">Contact</h5> -->
-                    <!-- <h5 class="text-center">Name Number</h5> -->
-                    <!-- <h5 class="text-center">name Number</h5> -->
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
+                    <div class="col-md-3 col-xs-12 col-sm-12">
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Meet Upadhyay<br>9586992670</h5>
+                        <h5 class="text-center">Zarna Desai<br>7016758241</h5>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1695,9 +1693,9 @@
                 <div class="row">
                     <div class="col-12">
                         <p class="text-center">Round 1:<br>
-                        	There will be stock of material which are related to civil engineering like cement, aggregate, sand, etc. one participate have to identify the material by feeling of touch and another participate will have to collect material of given values.<br><br>
+                        	There will be stock of material which are related to civil engineering like cement, aggregate, sand, etc. each participant have to identify the material by feeling and another participant will have to collect material of given values.<br><br>
                         	Round 2:<br>
-                        	Second round will be general crossword game of material & equipment that related to civil engineering.
+                        	Second round will be general crossword game of materials & equipments that are related to civil engineering.
                         	<br><br>
                         	Round 3:<br>
                         	The third round will be on the spot problem solving related to civil engineering field.
@@ -1764,13 +1762,13 @@
                 <div class="row">
                     <div class="col-12">
                         <p class="text-center">Round 1:<br>
-							In the first round one video will be play and based on the video students have to answer the question of the quiz.
+							In the first round one video will be played and based on the video students have to answer the question of the quiz.
                         	<br><br>
                         	Round 2:<br>
                         	The students will be provided with a drawing sheet and they will have to plan a city on their own an ideal city with road connections and public buildings included on the bases of the plan elimination will be done.
                         	<br><br>
                         	Round 3:<br>
-                        	Virtual money will be provided to buy different types of building structure The teams have to design and make the model of a town and the winner will be decided based on the accuracy of town planning. Some requirements of the town will be given by cheats.
+                        	Virtual money will be provided to buy different types of building structure The teams have to design and make the model of a town and the winner will be decided based on the accuracy of town planning. Some requirements of the town will be given by chits.
                         	<br><br>
                         </p>
                     </div>
@@ -2051,10 +2049,12 @@
                         <h5 class="text-center">Registration Fees</h5>
                         <h5 class="text-center">Rs. 100</h5>
                     </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Ronak Arora<br>7383896227</h5>
+                        <h5 class="text-center">Rutvik Trivedi<br>9572760411</h5>
                     </div>
 
                 </div>
@@ -2123,10 +2123,12 @@
                         <h5 class="text-center">Registration Fees</h5>
                         <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Elish Jariwala<br>9408519504</h5>
+                        <h5 class="text-center">Urvil Desai<br>8980862213</h5>
                     </div>
                 </div>
             </div>
@@ -2218,10 +2220,12 @@
                          <h5 class="text-center">Registration Fees</h5>
                          <h5 class="text-center">Rs. 500 per team</h5>
                     </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Harshil Pandit<br>8460383841</h5>
+                        <h5 class="text-center">Aman Rochani<br>9725580771</h5>
                     </div>
                 </div>
 
@@ -2276,6 +2280,8 @@
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <h5 class="text-center">Registration Fees</h5>
                         <h5 class="text-center">Rs. 150 per team</h5>
+                    </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
                     </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
                         <!-- <h5 class="text-center">Contact</h5> -->
@@ -2345,10 +2351,12 @@
                         <h5 class="text-center">Registration Fees</h5>
                         <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
-                        <!-- <h5 class="text-center">name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Jinendra Tirgar<br>9687059194</h5>
+                        <h5 class="text-center">Rikin Naik<br>9727707744</h5>
                     </div>
                 </div>
             </div>
@@ -2410,9 +2418,11 @@
                         <h5 class="text-center">Registration Fees</h5>
                         <h5 class="text-center">Rs. 150 per team</h5>
                     </div>
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+                    </div>
                     <div class="col-md-3 col-xs-12 col-sm-12">
-                        <!-- <h5 class="text-center">Contact</h5> -->
-                        <!-- <h5 class="text-center">Name Number</h5> -->
+                        <h5 class="text-center">Contact</h5>
+                        <h5 class="text-center">Manan Khanwilkar<br>9904463388</h5>
                         <!-- <h5 class="text-center">name Number</h5> -->
                     </div>
                 </div>

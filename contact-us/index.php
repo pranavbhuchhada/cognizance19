@@ -33,7 +33,7 @@
 				<h2 class="text-center">+91 8866997039</h2>
 			</div>
 			<div class="m-4 col-md-3 col-xs-10 col-sm-5 col-lg-3 box-feature shadow-lg">
-				<h1 class="text-center pt-5">Rutvik Patel</h1>
+				<h1 class="text-center pt-5">Rutwik Patel</h1>
 				<h2 class="text-center">(Executive Central Concil)</h2>
 				<h2 class="text-center">+91 9913841384</h2>
 			</div>

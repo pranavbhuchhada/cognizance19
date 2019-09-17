@@ -52,9 +52,9 @@
 					</p>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mt-5 text-center GameofThrones">
-					<h1>The Teaser</h1>
+					<h1>The Trailer</h1>
 					<div id="youtube-frame">
-						<span class="youtube-link" youtubeid="_56a6UNLlow">
+						<span class="youtube-link" youtubeid="xqXz5G3IdDc">
 							<i class="fa fa-play-circle" style="color: #c4302b;font-size: 40px;top: 50%;position: absolute;transform: translate(-50%,-50%);" aria-hidden="true">
 							</i></span>
 					</div>

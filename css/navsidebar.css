@@ -107,7 +107,23 @@
 }
 .fa-youtube:hover{
   background-color: white !important;
-  color: #c4302b !important;
+  color: #fecb2e !important;
+}
+.fa-play{
+  background-color: #fecb2e !important;
+  color: white !important;
+}
+.fa-play:hover{
+  background-color: white !important;
+  color: #3BCCFF !important;
+}
+.fa-apple{
+  background-color: #5fc9f8 !important;
+  color: white !important;
+}
+.fa-apple:hover{
+  background-color: white !important;
+  color: #5fc9f8 !important;
 }
 .fa-envelope-o{
   background-color: #D44638 !important;

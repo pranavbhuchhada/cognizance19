@@ -76,6 +76,11 @@
 					<div class="text-center overlay">
 						<h1>Blockchain</h1>
 					</div>
+				</div>
+				<div id="workshop_9" class="col-md-3 col-sm-11 col-xs-11 col-11 workshop-card">
+					<div class="text-center overlay">
+						<h1>Microsoft Azure Cloud</h1>
+					</div>
 				</div>							
 			</div>
 		</div>
@@ -334,7 +339,35 @@
 			</div>
 		</div>
 	</div>
-
+	<div id="workshop_m_9" class="modal">
+		<div class="modal-content">
+			<div class="container-fluid">
+				<div class="row mt-5">
+					<div class="col-12">
+						<span class="pull-right"><a href="#" class="close"></a></span>
+						<h1 class="text-center">MICROSOFT AZURE CLOUD</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12 mt-5">
+						<p class="text-center">Microsoft Azure (formerly Windows Azure) is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. It provides software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems.</p>				
+					</div>
+				</div>
+				<div class="row mt-5">
+					<div class="col-md-3 col-xs-12 col-sm-12">
+						<h5 class="text-center">Registration Fees</h5>
+						<h5 class="text-center">Rs. 300</h5>
+					</div>
+					<div class="col-md-6 col-xs-12 col-sm-12"></div>
+					<div class="col-md-3 col-xs-12 col-sm-12">
+						<!-- <h5 class="text-center">Contact</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+						<!-- <h5 class="text-center">name<br>number</h5> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	<?php include '../navsidebar.php'; ?>
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>

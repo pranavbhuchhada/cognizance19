@@ -14,13 +14,19 @@ body{
 }
 #discobar{
 	height: 100%;
-	background-color: rgba(0,0,0,0.7);
+	background-color: rgba(0,0,0,1);
 	font-family: disco;
 	color: white;
 	text-align: center;
 }
 #discobar h1{
-	font-size: 10vw;
+	font-size: 7vw;
+}
+#discobar img{
+	margin: auto;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	top: 50%;
 }
 #discodetails{
 }
@@ -46,8 +52,13 @@ body{
 	#discobar{
 		height: auto;
 	}
+	#discobar img{
+		transform: translate(0,0);
+		position: relative;
+		top: 0;
+	}
 	#discobar h1{
-		font-size: 25vw;
+		font-size: 16vw;
 	}
 	#discodetails{
 		background-color: rgba(0,0,0,0.7);		
