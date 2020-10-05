@@ -57,9 +57,9 @@ var pJS = function(tag_id, params){
       },
       line_linked: {
         enable: true,
-        distance: 100,
+        distance: 160,
         color: '#fff',
-        opacity: 1,
+        opacity: 0.2,
         width: 1
       },
       move: {
@@ -99,11 +99,13 @@ var pJS = function(tag_id, params){
           }
         },
         bubble:{
-          distance: 200,
-          size: 80,
-          duration: 0.4
+          distance: 400,
+          size: 40,
+          duration: 2, 
+          opacity: 8, 
+          speed: 3
         },
-        
+        repulse: { distance: 211, duration: 0.4 },
         push:{
           particles_nb: 4
         },
